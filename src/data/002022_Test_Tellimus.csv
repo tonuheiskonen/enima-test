@@ -1,0 +1,79 @@
+﻿Parent;ItemNumber;Item Code;Item Name;Color Code;Color Name;Has Grain;Length;Width;Thickness;Quantity;Material Quantity;Units;CoverSide;Item Type;Material Type;Material Code;Color Code
+;1;002022_Test_Tellimus;;;;;;;;1;;;;Assembly;;;
+1;2;sahtlikapp;;;;;;;;3;;;;Assembly;;;
+2;34;Sahtel_1;;;;;;;;1;;;;Assembly;;;
+34;35;sahtli_p6hi;;;;False;540;422;16;1;;;;Part;;;
+35;36;sahtli_p6hi WP 1;WP of ;;;False;422;540;16;0,228;0,228;m²;;Fill Workpiece;Laminated Board;MEL;KO_508
+34;38;sahtli_parem_kylg;;;;False;540;247;16;1;;;;Part;;;
+38;39;sahtli_parem_kylg WP 1;WP of ;;;False;540;247;16;0,133;0,133;m²;;Fill Workpiece;Laminated Board;MEL;KO_508
+38;41;sahtli_parem_kylg WP 2;WP of ;;;False;540;16;2;0,54;0,54;m;Back;Cover Workpiece;Edge Band;ABS;KO_508
+34;43;sahtli_vasak_kylg;;;;False;540;247;16;1;;;;Part;;;
+43;44;sahtli_vasak_kylg WP 1;WP of ;;;False;540;247;16;0,133;0,133;m²;;Fill Workpiece;Laminated Board;MEL;KO_508
+43;46;sahtli_vasak_kylg WP 2;WP of ;;;False;540;16;2;0,54;0,54;m;Back;Cover Workpiece;Edge Band;ABS;KO_508
+34;48;sahtli_tagatykk;;;;False;422;217;16;1;;;;Part;;;
+48;49;sahtli_tagatykk WP 1;WP of ;;;False;422;217;16;0,092;0,092;m²;;Fill Workpiece;Laminated Board;MEL;KO_508
+48;51;sahtli_tagatykk WP 2;WP of ;;;False;422;16;2;0,422;0,422;m;Back;Cover Workpiece;Edge Band;ABS;KO_508
+34;53;sahtli_esipaneel;;;;False;492;294;19;1;;;;Part;;;
+53;54;sahtli_esipaneel WP 1;WP of ;;;False;492;294;19;0,145;0,145;m²;;Fill Workpiece;Board;MDF;
+53;56;sahtli_esipaneel WP 2;WP of ;;;False;;;0;0;0,319;m²;Left, Back, Right, Front, Top, Bottom;Cover Workpiece;Paint;värv;NCS_S_0500-N
+34;68;MOVENTO with BLUMOTION 550 Blum 760H5500S;;;;;;;;1;;;;Purchased;;;
+2;68;Sahtel_2;;;;;;;;1;;;;Assembly;;;
+68;69;sahtli_p6hi;;;;False;540;422;16;1;;;;Part;;;
+69;70;sahtli_p6hi WP 1;WP of ;;;False;422;540;16;0,228;0,228;m²;;Fill Workpiece;Laminated Board;MEL;KO_508
+68;72;sahtli_parem_kylg;;;;False;540;98;16;1;;;;Part;;;
+72;73;sahtli_parem_kylg WP 1;WP of ;;;False;540;98;16;0,053;0,053;m²;;Fill Workpiece;Laminated Board;MEL;KO_508
+72;75;sahtli_parem_kylg WP 2;WP of ;;;False;540;16;2;0,54;0,54;m;Back;Cover Workpiece;Edge Band;ABS;KO_508
+68;77;sahtli_vasak_kylg;;;;False;540;98;16;1;;;;Part;;;
+77;78;sahtli_vasak_kylg WP 1;WP of ;;;False;540;98;16;0,053;0,053;m²;;Fill Workpiece;Laminated Board;MEL;KO_508
+77;80;sahtli_vasak_kylg WP 2;WP of ;;;False;540;16;2;0,54;0,54;m;Back;Cover Workpiece;Edge Band;ABS;KO_508
+68;82;sahtli_tagatykk;;;;False;422;68;16;1;;;;Part;;;
+82;83;sahtli_tagatykk WP 1;WP of ;;;False;422;68;16;0,029;0,029;m²;;Fill Workpiece;Laminated Board;MEL;KO_508
+82;85;sahtli_tagatykk WP 2;WP of ;;;False;422;16;2;0,422;0,422;m;Back;Cover Workpiece;Edge Band;ABS;KO_508
+68;87;sahtli_esipaneel;;;;False;492;145;19;1;;;;Part;;;
+87;88;sahtli_esipaneel WP 1;WP of ;;;False;492;145;19;0,071;0,071;m²;;Fill Workpiece;Board;MDF;
+87;90;sahtli_esipaneel WP 2;WP of ;;;False;;;0;0;0,167;m²;Left, Back, Right, Front, Top, Bottom;Cover Workpiece;Paint;värv;NCS_S_0500-N
+68;103;MOVENTO with BLUMOTION 550 Blum 760H5500S;;;;;;;;1;;;;Purchased;;;
+2;113;Sahtel_5;;;;;;;;1;;;;Assembly;;;
+113;114;sahtli_p6hi;;;;False;422;410;16;1;;;;Part;;;
+114;115;sahtli_p6hi WP 1;WP of ;;;False;422;410;16;0,173;0,173;m²;;Fill Workpiece;Laminated Board;MEL;KO_508
+113;117;sahtli_parem_kylg;;;;False;410;82;16;1;;;;Part;;;
+117;118;sahtli_parem_kylg WP 1;WP of ;;;False;410;82;16;0,034;0,034;m²;;Fill Workpiece;Laminated Board;MEL;KO_508
+117;120;sahtli_parem_kylg WP 2;WP of ;;;False;410;16;2;0,41;0,41;m;Back;Cover Workpiece;Edge Band;ABS;KO_508
+113;122;sahtli_vasak_kylg;;;;False;410;82;16;1;;;;Part;;;
+122;123;sahtli_vasak_kylg WP 1;WP of ;;;False;410;82;16;0,034;0,034;m²;;Fill Workpiece;Laminated Board;MEL;KO_508
+122;125;sahtli_vasak_kylg WP 2;WP of ;;;False;410;16;2;0,41;0,41;m;Back;Cover Workpiece;Edge Band;ABS;KO_508
+113;127;sahtli_tagatykk;;;;False;422;52;16;1;;;;Part;;;
+127;128;sahtli_tagatykk WP 1;WP of ;;;False;422;52;16;0,022;0,022;m²;;Fill Workpiece;Laminated Board;MEL;KO_508
+127;130;sahtli_tagatykk WP 2;WP of ;;;False;422;16;2;0,422;0,422;m;Back;Cover Workpiece;Edge Band;ABS;KO_508
+113;132;sahtli_esipaneel;;;;False;492;145;19;1;;;;Part;;;
+132;133;sahtli_esipaneel WP 1;WP of ;;;False;492;145;19;0,071;0,071;m²;;Fill Workpiece;Board;MDF;
+132;135;sahtli_esipaneel WP 2;WP of ;;;False;;;0;0;0,167;m²;Left, Back, Right, Front, Top, Bottom;Cover Workpiece;Paint;värv;PNTB 03
+113;149;MOVENTO with BLUMOTION 420 Blum 760H4200S;;;;;;;;1;;;;Purchased;;;
+2;3;vasak_kylg;;;;False;600;582;18;1;;;;Part;;;
+3;4;vasak_kylg WP 1;WP of ;;;False;600;582;18;0,349;0,349;m²;;Fill Workpiece;Laminated Board;MEL;EG_W1000
+3;6;vasak_kylg WP 2;WP of ;;;False;582;18;2;0,582;0,582;m;Left;Cover Workpiece;Edge Band;ABS;EG_W1000
+3;8;vasak_kylg WP 3;WP of ;;;False;582;18;2;0,582;0,582;m;Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+2;10;parem_kylg;;;;False;600;582;18;1;;;;Part;;;
+10;11;parem_kylg WP 1;WP of ;;;False;600;582;18;0,349;0,349;m²;;Fill Workpiece;Laminated Board;MEL;EG_W1000
+10;13;parem_kylg WP 2;WP of ;;;False;582;18;2;0,582;0,582;m;Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+10;15;parem_kylg WP 3;WP of ;;;False;582;18;2;0,582;0,582;m;Left;Cover Workpiece;Edge Band;ABS;EG_W1000
+2;17;p6hi;;;;False;600;500;18;1;;;;Part;;;
+17;18;p6hi WP 1;WP of ;;;False;600;500;18;0,3;0,3;m²;;Fill Workpiece;Laminated Board;MEL;EG_W1000
+17;20;p6hi WP 2;WP of ;;;False;600;18;2;0,6;0,6;m;Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+17;22;p6hi WP 3;WP of ;;;False;500;18;2;0,5;0,5;m;Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+17;24;p6hi WP 4;WP of ;;;False;600;18;2;0,6;0,6;m;Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+2;26;lagi;;;;False;582;464;18;1;;;;Part;;;
+26;27;lagi WP 1;WP of ;;;False;582;464;18;0,27;0,27;m²;;Fill Workpiece;Laminated Board;MEL;EG_W1000
+26;29;lagi WP 2;WP of ;;;False;464;18;2;0,464;0,464;m;Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+2;31;tagasein;;;;False;464;120;18;1;;;;Part;;;
+31;32;tagasein WP 1;WP of ;;;False;120;464;18;0,056;0,056;m²;;Fill Workpiece;Laminated Board;MEL;EG_W1000
+2;102;plate;;;;True;625;500;20;1;;;;Part;;;
+102;103;plate WP 1;WP of ;;;True;665;540;20;0,359;0,359;m²;;Fill Workpiece;Laminated Board;L_L_PLP;RP_4083
+102;105;plate WP 2;WP of ;;;False;625;20;2;0,625;0,625;m;Front;Cover Workpiece;Edge Band;ABS;RP_4083
+102;107;plate WP 3;WP of ;;;False;500;20;2;0,5;0,5;m;Left;Cover Workpiece;Edge Band;ABS;RP_4083
+102;109;plate WP 4;WP of ;;;False;625;20;2;0,625;0,625;m;Back;Cover Workpiece;Edge Band;ABS;RP_4083
+102;111;plate WP 5;WP of ;;;False;500;20;2;0,5;0,5;m;Right;Cover Workpiece;Edge Band;ABS;RP_4083
+2;147;Kruvitõmmits 7x70;;;;;;;;14;;;;Purchased;;;
+2;34;Tüübel 8x35;puittüübel 8x35;;;;;;;12;;;;Purchased;;;
+2;152;Soklijala tald: Häfele 637.76.333;T;;;;;;;4;;;;Purchased;;;
+2;153;Soklijalg H 100 mm: Häfele 637.76.353;J;;;;;;;4;;;;Purchased;;;
