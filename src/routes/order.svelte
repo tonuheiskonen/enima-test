@@ -1,6 +1,7 @@
 <script>
 	import { parseCsv } from '../utils/parseCsv.js';
 	import Order from '$lib/Order.svelte';
+	import { getMatrialNames } from '../utils/getAllMaterials.js';
 
 	const handleSelect = (e) => {
 		const reader = new FileReader();
@@ -14,6 +15,10 @@
 		reader.readAsText(file);
 	};
 
+	const getMaterials = () => {
+		console.log(getMatrialNames(data[0]));
+	};
+
 	let data = [];
 </script>
 
@@ -21,6 +26,8 @@
 
 <label for="file">Lae tellimuse CSV</label>
 <input on:change={handleSelect} type="file" name="file" id="file" accept=".csv" />
+
+<button on:click={getMaterials}>materjalid</button>
 
 <div class="container">
 	{#each data as order}

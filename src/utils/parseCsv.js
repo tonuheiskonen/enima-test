@@ -19,7 +19,7 @@ export function parseCsv(fileContent) {
     });
 
     const result = list.filter(first => first.Parent === '')[0];
-    console.log(result);
+    // console.log(result);
     result['Item Type'] = 'Order';
     return result;
 }
