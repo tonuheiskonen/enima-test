@@ -15,7 +15,7 @@
 
 <div class="cover-workpiece">
 	<p on:click={toggle}>
-		<span class="type">{node['Material Type']}</span>
+		<span class="type">{node['Material Type']} ({node['CoverSide']})</span>
 		{#if node['Material Type'] === 'Paint'}
 			{node['Color Code']}
 		{/if}

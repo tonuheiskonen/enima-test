@@ -1,0 +1,20 @@
+﻿<columns units="px">
+  <column name="Parent" type="Number" format="G" nulltext="-" alignment="Right" />
+  <column name="ItemNumber" type="Number" format="G" nulltext="-" alignment="Right" />
+  <column name="Item Code" type="Text" />
+  <column name="Item Name" type="Text" />
+  <column name="Color Code" type="Text" />
+  <column name="Color Name" type="Text" />
+  <column name="Has Grain" type="Text" />
+  <column name="Length" type="Text" />
+  <column name="Width" type="Text" />
+  <column name="Thickness" type="Text" />
+  <column name="Quantity" type="Text" />
+  <column name="Material Quantity" type="Text" />
+  <column name="Units" type="Text" />
+  <column name="CoverSide" type="Text" />
+  <column name="Item Type" type="Text" />
+  <column name="Material Type" type="Text" />
+  <column name="Material Code" type="Text" />
+  <column name="Color Code" type="Text" />
+</columns>

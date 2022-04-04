@@ -28,7 +28,7 @@
 		<span class="size">
 			{node['Length']} x {node['Width']}
 		</span>
-		<span class="cnt">{node['Quantity']} {node['Units']}</span>
+		<span class="cnt">{node['sum']} {node['Units']}</span>
 	</p>
 	{#if node.expanded}
 		<Children {node} />

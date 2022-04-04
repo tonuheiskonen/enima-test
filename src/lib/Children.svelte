@@ -15,6 +15,7 @@
 		Assembly: Assembly,
 		Part: Part,
 		Purchased: Purchased,
+		'Composite Workpiece': FillWorkpiece,
 		'Fill Workpiece': FillWorkpiece,
 		'Cover Workpiece': CoverWorkpiece,
 		Board: Board,

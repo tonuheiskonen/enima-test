@@ -2,21 +2,31 @@
 	import { parseCsv } from '../utils/parseCsv.js';
 	import Order from '$lib/Order.svelte';
 	import { getMatrialNames } from '../utils/getAllMaterials.js';
+	import { getPurchasedPartsNames } from '../utils/getAllMaterials.js';
+	import { normalizeCsv } from '../utils/normalize.js';
 
 	const handleSelect = (e) => {
-		const reader = new FileReader();
+		const fileReader = new FileReader();
 		const file = e.target.files[0];
+		// console.log(file);
+		if (file.name.split('.')[file.name.split('.').length - 1] !== 'csv')
+			throw new Error('not csv file');
 
-		reader.onloadend = (event) => {
+		fileReader.onloadend = (event) => {
 			// @ts-ignore
-			data = [...data, parseCsv(event.currentTarget.result)];
+			const normalSet = normalizeCsv(event.currentTarget.result);
+			data = [...data, parseCsv(normalSet)];
 		};
 
-		reader.readAsText(file);
+		fileReader.readAsText(file);
 	};
 
 	const getMaterials = () => {
 		console.log(getMatrialNames(data[0]));
+	};
+
+	const getPurchasedParts = () => {
+		console.log(getPurchasedPartsNames(data[0]));
 	};
 
 	let data = [];
@@ -28,6 +38,7 @@
 <input on:change={handleSelect} type="file" name="file" id="file" accept=".csv" />
 
 <button on:click={getMaterials}>materjalid</button>
+<button on:click={getPurchasedParts}>ostutooted</button>
 
 <div class="container">
 	{#each data as order}
@@ -42,7 +53,8 @@
 		padding: 16px;
 	}
 
-	label {
+	label,
+	button {
 		appearance: button;
 		padding: 16px;
 		margin: 16px;
