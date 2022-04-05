@@ -9,9 +9,9 @@
 
 <div class="assembly">
 	<p on:click={toggle}>
-		<span class="type">{node['Item Type']}</span>
-		{node['Item Code']}
-		<span class="cnt">{node['Quantity']}</span>
+		<span class="type">{node.type}</span>
+		{node.code}
+		<span class="cnt">{node.quantity}</span>
 	</p>
 	{#if node.expanded}
 		<Children {node} />

@@ -1,6 +1,7 @@
 /**
  * Kontrollida: ItemNumber peab olema unikaalne!!!
  * On juhtumeid, kus ItemNumber kordub.
+ * (Tundub, et inventori failinimes ei tohi olla täpitähti)?!
  */
 
 const csvSeparator = ';';
@@ -18,7 +19,7 @@ export function parseCsv(fileContent) {
     const csvRows = fileContent.trim().split('\r\n');
     const headers = csvRows.shift().split(csvSeparator);
 
-    console.log('parse', [headers, csvRows]);
+    // console.log('parse', [headers, csvRows]);
 
     const list = parseAll(headers, csvRows);
 
@@ -26,19 +27,20 @@ export function parseCsv(fileContent) {
         parent.Children = [];
         // Ostutooted ei sisalda komponente
         // if (parent['Item Type'] === 'Purchased') return;
-        parent.Children = list.filter((child) => child.Parent === parent.ItemNumber);
+        parent.Children = list.filter((child) => child.parentID === parent.ID);
         // parent.Children.forEach(child => {
         //     child.sum = toNumber(parent['Quantity']) * toNumber(child['Quantity']);
         // });
     });
 
-    const result = list.filter(first => first.Parent === '')[0];
-    result['Item Type'] = 'Order';
-    result['sum'] = '1';
+    const result = list.filter(first => first.parentID === '')[0];
+    result.type = 'Order';
     return result;
+
 }
 
 function parseAll(headers, csv) {
+    // headers = headers.split(csvSeparator);
     const csvArr = [];
     csv.forEach((row, i) => {
         csvArr.push(parseRow(headers, row));

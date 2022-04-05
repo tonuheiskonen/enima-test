@@ -18,17 +18,17 @@
 
 <div class="fill-workpiece">
 	<p on:click={toggle}>
-		<span class="type">{node['Material Type']}</span>
-		{#if node['Material Type'] === 'Board'}
-			{node['Material Code']}_{node['Thickness']}mm
+		<span class="type">{node.materialType}</span>
+		{#if node.materialType === 'Board'}
+			{node.materialCode}_{node.thickness}mm
 		{/if}
-		{#if node['Material Type'] === 'Laminated Board'}
-			{node['Material Code']}_{node['Color Code']}_{node['Thickness']}mm
+		{#if node.materialType === 'Laminated Board'}
+			{node.materialCode}_{node.colorCode}_{node.thickness}mm
 		{/if}
 		<span class="size">
-			{node['Length']} x {node['Width']}
+			{node.length} x {node.width}
 		</span>
-		<span class="cnt">{node['sum']} {node['Units']}</span>
+		<span class="cnt">{node.quantity} {node.units}</span>
 	</p>
 	{#if node.expanded}
 		<Children {node} />

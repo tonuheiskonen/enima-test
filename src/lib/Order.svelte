@@ -9,8 +9,8 @@
 
 <div class="order">
 	<h3 on:click={toggle}>
-		<span class="type">{node['Item Type']}</span>
-		{node['Item Code']}
+		<span class="type">{node.type}</span>
+		{node.code}
 		<!-- <span>({node['Item Type']})</span> -->
 	</h3>
 	{#if node.expanded}

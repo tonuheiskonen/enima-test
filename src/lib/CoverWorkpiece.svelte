@@ -15,14 +15,14 @@
 
 <div class="cover-workpiece">
 	<p on:click={toggle}>
-		<span class="type">{node['Material Type']} ({node['CoverSide']})</span>
-		{#if node['Material Type'] === 'Paint'}
-			{node['Color Code']}
+		<span class="type">{node.materialType} ({node.coverSide})</span>
+		{#if node.MaterialType === 'Paint'}
+			{node.colorCode}
 		{/if}
-		{#if node['Material Type'] === 'Edge Band'}
-			{node['Material Code']}_{node['Color Code']}_{node['Thickness']}x{node['Width']}mm
+		{#if node.materialType === 'Edge Band'}
+			{node.materialCode}_{node.colorCode}_{node.thickness}x{node.width}mm
 		{/if}
-		<span class="cnt">{node['Material Quantity']} {node['Units']}</span>
+		<span class="cnt">{node.quantity} {node.units}</span>
 	</p>
 	{#if node.expanded}
 		<Children {node} />

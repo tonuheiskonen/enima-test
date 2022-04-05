@@ -9,12 +9,12 @@
 
 <div class="part">
 	<p on:click={toggle}>
-		<span class="type">{node['Item Type']}</span>
-		{node['Item Code']}
+		<span class="type">{node.type}</span>
+		{node.code}
 		<span class="size">
-			{node['Length']} x {node['Width']} x {node['Thickness']}
+			{node.length} x {node.width} x {node.thickness}
 		</span>
-		<span class="cnt">{node['Quantity']}</span>
+		<span class="cnt">{node.quantity}</span>
 	</p>
 	{#if node.expanded}
 		<Children {node} />
