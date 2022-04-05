@@ -1,0 +1,10 @@
+﻿parentID;ID;code;name;hasGrain;length;width;thickness;quantity;units;coverSide;type;materialType;materialCode;colorCode
+;2;Many_Multiparts;;;;;;1;;;Assembly;;;
+2;3;pealmine_kiht;;True;1000;200;21;1;;;Part;;;
+3;4;pealmine_kiht WP 1;WP of ;True;1000;200;21;0,2;m²;;Fill Workpiece;Laminated Board;L_L_PLP;RP_4083
+3;6;pealmine_kiht WP 2;WP of ;False;1000;21;2;1;m;Back;Cover Workpiece;Edge Band;ABS;KS_K016
+3;8;pealmine_kiht WP 3;WP of ;False;1000;21;2;1;m;Front;Cover Workpiece;Edge Band;ABS;KS_K016
+;3;pealmine_kiht;;True;1000;200;21;1;;;Part;;;
+3;4;pealmine_kiht WP 1;WP of ;True;1000;200;21;0,2;m²;;Fill Workpiece;Laminated Board;L_L_PLP;RP_4083
+3;6;pealmine_kiht WP 2;WP of ;False;1000;21;2;1;m;Back;Cover Workpiece;Edge Band;ABS;KS_K016
+3;8;pealmine_kiht WP 3;WP of ;False;1000;21;2;1;m;Front;Cover Workpiece;Edge Band;ABS;KS_K016

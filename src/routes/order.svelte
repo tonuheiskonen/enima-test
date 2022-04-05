@@ -1,20 +1,20 @@
 <script>
-	import { parseCsv } from '../utils/parseCsv.js';
+	import { parseToObject } from '../utils/parseCsv.js';
 	import Order from '$lib/Order.svelte';
-	import { getMatrialNames } from '../utils/getAllMaterials.js';
-	import { getPurchasedPartsNames } from '../utils/getAllMaterials.js';
-	import { normalizeCsv } from '../utils/normalize.js';
+	import { getMatrialNames, getPurchasedPartsNames } from '../utils/getAllMaterials.js';
+	import { getHeadersAndData, hasValidHeaders } from '../utils/normalize.js';
 
-	let data = [];
+	let orders = [];
 	let error = '';
 
 	const handleCsv = (event) => {
-		// remove all duplicate rows from csv
 		const csvString = event.currentTarget.result;
-
-		const normalSet = normalizeCsv(csvString);
-		//
-		data = [...data, parseCsv(normalSet)];
+		const [headers, data] = getHeadersAndData(csvString);
+		if (!hasValidHeaders(headers)) {
+			error = 'Data upload failed. File formatting is not compatible.';
+			return;
+		}
+		orders = [...orders, parseToObject(headers, data)];
 	};
 
 	const handleSelect = (event) => {
@@ -35,11 +35,12 @@
 	};
 
 	const getMaterials = () => {
-		console.log(getMatrialNames(data[0]));
+		// orders[0].materials = Array.from(getMatrialNames(orders[0]));
+		console.log(orders[0]);
 	};
 
 	const getPurchasedParts = () => {
-		console.log(getPurchasedPartsNames(data[0]));
+		console.log(getPurchasedPartsNames(orders[0]));
 	};
 </script>
 
@@ -55,7 +56,7 @@
 	<p class="error">{error}</p>
 {/if}
 <div class="container">
-	{#each data as order}
+	{#each orders as order}
 		<Order node={order} />
 	{:else}
 		<p>Nimekirjas pole tellimusi.</p>

@@ -8,6 +8,7 @@
 	import Board from '$lib/Board.svelte';
 	import LaminatedBoard from '$lib/LaminatedBoard.svelte';
 	import EdgeBand from '$lib/EdgeBand.svelte';
+	import Materials from '$lib/Materials.svelte';
 
 	export let node;
 
@@ -21,7 +22,8 @@
 		Board: Board,
 		'Laminated Board': LaminatedBoard,
 		Paint: Item,
-		'Edge Band': EdgeBand
+		'Edge Band': EdgeBand,
+		_List: Materials
 	};
 
 	const children = node.Children.sort((a, b) => {

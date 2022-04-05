@@ -18,29 +18,26 @@ const validHeadersArray = [
 ];
 /**
  * function removes all duplicate rows from csv file
- * @param {String} csvFile 
- * @returns {String} 'csv string with unique rows'
+ * @param {String} csvString 
+ * @returns {Set} 'csv string with unique rows'
  */
-export const normalizeCsv = csvFile => {
+const normalizeCsv = csvString => {
     const newRow = '\r\n';
     const csvSet = new Set();
-    const csvArray = csvFile.split(newRow);
-
-    // console.log(makeValidHeadersString(csvArray));
+    const csvArray = csvString.trim().split(newRow);
 
     csvArray.forEach(row => csvSet.add(row));
-    const csvString = Array.from(csvSet).reduce((string, row) => string + newRow + row);
-    console.log('normalize', getHeadersAndData(csvSet));
-    return csvString;
+    return csvSet;
 }
 
 /**
  * function separates headers (1st row) and data (...rest) from Set
- * @param {Set} set 
- * @returns {Array} 'array with [headers, data]'
+ * @param {String} csvString 
+ * @returns {Array} 'array with [headers[], data[]]'
  */
-const getHeadersAndData = set => {
-    const [headers, ...rest] = set;
+export const getHeadersAndData = csvString => {
+    const csvSet = normalizeCsv(csvString);
+    const [headers, ...rest] = csvSet;
 
     return [
         headers.split(csvSeparator),
@@ -52,10 +49,10 @@ const getHeadersAndData = set => {
  * 
  * @param {Array} headers 
  */
-function hasValidHeaders(headers) {
+export function hasValidHeaders(headers) {
     return headers.every(header => validHeadersArray.includes(header));
 }
 
-function makeValidHeadersString(csvArray) {
+function makeValidHeadersArray(csvArray) {
     return csvArray[0].split(csvSeparator);
 }

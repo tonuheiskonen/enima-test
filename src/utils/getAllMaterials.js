@@ -16,19 +16,19 @@ const purchasedParts = new Set();
 export function getMatrialNames(assembly) {
     if (assembly.Children.length === 0) return;
     assembly.Children.forEach(child => {
-        if (materialTypes.includes(child['Material Type'])) {
-            materials.add(`${child['Material Code']}_${child['Color Code']}`);
+        if (materialTypes.includes(child.materialType)) {
+            materials.add(`${child.materialCode}${child.colorCode ? '_' + child.colorCode : ''}_${child.thickness}mm`);
         }
         getMatrialNames(child);
     });
-    return materials;
+    return Array.from(materials);
 }
 
 export function getPurchasedPartsNames(assembly) {
     if (assembly.Children.length === 0) return;
     assembly.Children.forEach(child => {
-        if (child['Item Type'] === 'Purchased') {
-            purchasedParts.add(child['Item Code']);
+        if (child.type === 'Purchased') {
+            purchasedParts.add(child.code);
         }
         getPurchasedPartsNames(child);
     });
