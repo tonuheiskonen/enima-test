@@ -1,18 +1,53 @@
 <script>
-	// import data from '../data/tellimus.json';
-	import Card from '$lib/Item.svelte';
+	import Canvas from '$lib/canvas/Canvas.svelte';
+	import Rectangle from '$lib/canvas/Rectangle.svelte';
+	import Item from '$lib/Item.svelte';
+	import { xlink_attr } from 'svelte/internal';
 
-	// const order = data[0];
+	let canvasVisible = true;
+
+	const data = [
+		{ w: 50, h: 75 },
+		{ w: 50, h: 225 },
+		{ w: 50, h: 400 },
+		{ w: 50, h: 275 },
+		{ w: 50, h: 100 },
+		{ w: 50, h: 100 },
+		{ w: 50, h: 75 },
+		{ w: 50, h: 225 },
+		{ w: 50, h: 400, color: 'rgb(0, 100, 25)' },
+		{ w: 50, h: 275 },
+		{ w: 50, h: 100 },
+		{ w: 50, h: 75 },
+		{ w: 50, h: 225 },
+		{ w: 50, h: 400 },
+		{ w: 50, h: 275 },
+		{ w: 50, h: 150 }
+	];
+
+	const { x, y, w, h } = data[0];
+
+	function handleClick() {
+		canvasVisible = !canvasVisible;
+	}
 </script>
 
-<h1>Index Page</h1>
+<h1>Canvas test</h1>
 
+<button on:click={handleClick}>remove canvas</button>
 <div class="container">
-	<!-- <Card node={order} /> -->
+	{#if canvasVisible}
+		<Canvas width={801} height={450}>
+			{#each data as item, index}
+				<Rectangle x={index * item.w} h={item.h} color={item.color} />
+			{/each}
+		</Canvas>
+	{/if}
 </div>
 
 <style>
 	.container {
-		padding: 16px;
+		margin-top: 32px;
+		color: rgb(0, 100, 25);
 	}
 </style>

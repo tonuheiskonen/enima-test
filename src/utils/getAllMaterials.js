@@ -32,5 +32,5 @@ export function getPurchasedPartsNames(assembly) {
         }
         getPurchasedPartsNames(child);
     });
-    return purchasedParts;
+    return Array.from(purchasedParts);
 }

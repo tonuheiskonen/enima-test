@@ -61,7 +61,7 @@
 		background-color: rgba(160, 160, 160, 0.15);
 		border: 1px solid rgb(160, 160, 160);
 		border-radius: 4px;
-		cursor: pointer;
+		/* cursor: pointer; */
 	}
 
 	p:hover {

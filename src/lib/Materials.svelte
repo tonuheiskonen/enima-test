@@ -1,19 +1,24 @@
 <script>
-	import Children from '$lib/Children.svelte';
 	export let node;
 
 	const toggle = () => {
 		node.expanded = !node.expanded;
 	};
+
+	const asc = (a, b) => {
+		if (a.toUpperCase() < b.toUpperCase()) return -1;
+		if (a.toUpperCase() > b.toUpperCase()) return +1;
+		return 0;
+	};
 </script>
 
 <div class="materials" on:click={toggle}>
 	<span class="type">List</span>
-	Materjalid
+	{node.name}
 	{#if node.expanded}
-		{#each node.materialNames as material}
+		{#each node.list.sort(asc) as item}
 			<ul>
-				<li class="material-name">{material}</li>
+				<li class="item-name">{item}</li>
 			</ul>
 		{/each}
 	{/if}

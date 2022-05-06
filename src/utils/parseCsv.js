@@ -1,4 +1,4 @@
-import { getMatrialNames } from "./getAllMaterials";
+import { getMatrialNames, getPurchasedPartsNames } from "./getAllMaterials";
 
 const numberDataColumns = [
     'length',
@@ -27,7 +27,14 @@ export function parseToObject(headers, data) {
     result.type = 'Order';
     result.Children.push({
         type: '_List',
-        materialNames: getMatrialNames(result),
+        name: 'materjalid',
+        list: getMatrialNames(result),
+        Children: [],
+    });
+    result.Children.push({
+        type: '_List',
+        name: 'ostutooted',
+        list: getPurchasedPartsNames(result),
         Children: [],
     });
     return result;

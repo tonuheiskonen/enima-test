@@ -4,6 +4,7 @@ const validHeadersArray = [
     'ID',
     'code',
     'name',
+    'comments',
     'hasGrain',
     'length',
     'width',

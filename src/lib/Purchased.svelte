@@ -9,9 +9,10 @@
 
 <div class="purchased">
 	<p on:click={toggle}>
-		<span class="type">{node['Item Type']}</span>
-		{node['Item Code']}
-		<span class="cnt">{node['Quantity']}</span>
+		<span class="type">{node.type}</span>
+		{node.code}
+		<span class="comments">( {node.comments} )</span>
+		<span class="cnt">{node.quantity}</span>
 	</p>
 	{#if node.expanded}
 		<Children {node} />
@@ -50,20 +51,20 @@
 		background-color: rgba(0, 0, 0, 0.15);
 		border: 1px solid rgb(0, 0, 0);
 		border-radius: 4px;
-		cursor: pointer;
+		/* cursor: pointer; */
 	}
 
 	p:hover {
 		background-color: rgba(0, 0, 0, 0.25);
 	}
 
-	span {
-		color: #aaa;
+	.comments {
+		padding-left: 16px;
+		color: rgba(0, 0, 0, 0.45);
 	}
 
 	.cnt {
 		margin-left: auto;
-		padding-left: 16px;
 		color: inherit;
 	}
 </style>

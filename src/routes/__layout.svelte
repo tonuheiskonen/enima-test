@@ -1,4 +1,8 @@
-<h2>menu</h2>
+<nav>
+	<a href="/">home</a>
+	<a href="/order">orders</a>
+</nav>
+
 <slot />
 
 <style>
@@ -9,5 +13,14 @@
 	}
 	:global(body) {
 		font-family: sans-serif;
+		margin: 16px;
+	}
+
+	nav {
+		margin-bottom: 32px;
+	}
+
+	a {
+		text-transform: uppercase;
 	}
 </style>

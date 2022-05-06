@@ -1,0 +1,479 @@
+﻿parentID;ID;code;name;comments;hasGrain;length;width;thickness;quantity;units;coverSide;type;materialType;materialCode;colorCode
+;1;897_Polaris_Avala_Kvartal;;;;;;;1;;;Assembly;;;
+1;2;182847_Fuajee_piirded;;;;;;;1;;;Assembly;;;
+2;3;Tumm_piire_I;;;;;;;1;;;Assembly;;;
+3;8;tumma_piirde_moodul;;;;;;;11;;;Assembly;;;
+8;9;tumma_piirde_paneel;;;True;1820;1000;19;1;;;Part;;;
+9;10;tumma_piirde_paneel WP 1;WP of ;;True;1830;1000;19;1,83;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+9;12;tumma_piirde_paneel WP 2;WP of ;;False;1820;19;1;1,82;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+9;14;tumma_piirde_paneel WP 3;WP of ;;False;1000;7;1;1;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+9;16;tumma_piirde_paneel WP 4;WP of ;;False;1820;19;1;1,82;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+8;18;tumma_piirde_kilp;;;True;1000;970;19;1;;;Part;;;
+18;19;tumma_piirde_kilp WP 1;WP of ;;True;970;1000;19;0,97;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+18;21;tumma_piirde_kilp WP 2;WP of ;;False;1000;19;1;1;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+18;23;tumma_piirde_kilp WP 3;WP of ;;False;970;19;1;0,97;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+18;25;tumma_piirde_kilp WP 4;WP of ;;False;970;19;1;0,97;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+8;27;tumma_piirde_ylapuu;;;True;1000;63;19;1;;;Part;;;
+27;28;tumma_piirde_ylapuu WP 1;WP of ;;True;1000;73;19;0,073;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+27;30;tumma_piirde_ylapuu WP 2;WP of ;;False;63;19;1;0,063;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+27;32;tumma_piirde_ylapuu WP 3;WP of ;;False;1000;19;1;1;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+27;34;tumma_piirde_ylapuu WP 4;WP of ;;False;63;19;1;0,063;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+8;36;tumma_piirde_riputusliist;;;False;900;80;19;1;;;Part;;;
+36;37;tumma_piirde_riputusliist WP 1;WP of ;;False;900;90;19;0,081;m²;;Fill Workpiece;Board;MDF;
+3;39;tumma_piirde_otsa_moodul_I;;;;;;;1;;;Assembly;;;
+39;40;tumma_piirde_ylapuu;;;True;425;63;19;1;;;Part;;;
+40;41;tumma_piirde_ylapuu WP 1;WP of ;;True;435;73;19;0,032;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+40;43;tumma_piirde_ylapuu WP 2;WP of ;;False;425;19;1;0,425;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+40;45;tumma_piirde_ylapuu WP 3;WP of ;;False;63;19;1;0,063;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+39;47;tumma_piirde_paneel_2;;;True;1820;425;19;1;;;Part;;;
+47;48;tumma_piirde_paneel_2 WP 1;WP of ;;True;1830;425;19;0,778;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+47;50;tumma_piirde_paneel_2 WP 2;WP of ;;False;831;19;1;0,831;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+47;52;tumma_piirde_paneel_2 WP 3;WP of ;;False;425;7;1;0,425;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+47;54;tumma_piirde_paneel_2 WP 4;WP of ;;False;1820;19;1;1,82;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+39;56;tumma_piirde_kilp_2;;;True;970;406;19;1;;;Part;;;
+56;57;tumma_piirde_kilp_2 WP 1;WP of ;;True;970;406;19;0,394;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+56;59;tumma_piirde_kilp_2 WP 2;WP of ;;False;970;19;1;0,97;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+56;61;tumma_piirde_kilp_2 WP 3;WP of ;;False;406;19;1;0,406;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+56;63;tumma_piirde_kilp_2 WP 4;WP of ;;False;970;19;1;0,97;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+39;65;tumma_piirde_otsa_l6petus_I;;;True;989;63;19;1;;;Part;;;
+65;66;tumma_piirde_otsa_l6petus_I WP 1;WP of ;;True;999;73;19;0,073;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+65;68;tumma_piirde_otsa_l6petus_I WP 2;WP of ;;False;989;19;1;0,989;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+65;70;tumma_piirde_otsa_l6petus_I WP 3;WP of ;;False;63;19;1;0,063;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+3;5;tumma_piirde_riputuslatt;;;False;2800;80;19;4;;;Part;;;
+5;6;tumma_piirde_riputuslatt WP 1;WP of ;;False;2800;90;19;0,252;m²;;Fill Workpiece;Board;MDF;
+3;72;tumma_piirde_vaheliist;;;True;550;80;21;38;;;Part;;;
+72;73;tumma_piirde_vaheliist WP 1;WP of ;;True;550;80;21;0,044;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+3;4;Tumma_piirde_metall_I;;;;;;;1;;;Purchased;;;
+2;75;Ribi_piire;;;;;;;1;;;Assembly;;;
+75;76;Ribi_piirde_metall;;;;;;;1;;;Assembly;;;
+75;88;ribi_piirde_viimane_paneel;;;;;;;1;;;Assembly;;;
+88;89;ribi_liist;;;True;1820;40;23;23;;;Part;;;
+89;90;ribi_liist WP 1;WP of ;;True;1820;40;23;0,073;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+89;92;ribi_liist WP 2;WP of ;;False;40;23;1;0,04;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+89;94;ribi_liist WP 3;WP of ;;False;1820;23;1;1,82;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+89;96;ribi_liist WP 4;WP of ;;False;40;23;1;0,04;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+89;98;ribi_liist WP 5;WP of ;;False;1820;23;1;1,82;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+88;100;ribi_piirde_viimane_riputusliist;;;True;1300;80;18;1;;;Part;;;
+100;101;ribi_piirde_viimane_riputusliist WP 1;WP of ;;True;1300;90;18;0,117;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+88;103;ribi_piirde_taust;;;False;1260;880;20;1;;;Part;;;
+103;104;ribi_piirde_taust WP 1;WP of ;;False;1260;880;20;1,109;m²;;Fill Workpiece;Laminated Board;L_L_PLP;EG_W1000
+103;106;ribi_piirde_taust WP 2;WP of ;;False;1260;8;1;1,26;m;Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+103;108;ribi_piirde_taust WP 3;WP of ;;False;880;20;1;0,88;m;Left;Cover Workpiece;Edge Band;ABS;EG_W1000
+103;110;ribi_piirde_taust WP 4;WP of ;;False;1260;20;1;1,26;m;Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+103;112;ribi_piirde_taust WP 5;WP of ;;False;880;20;1;0,88;m;Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+88;114;ribi_piirde_viimane_ylapuu;;;True;1363;45;19;1;;;Part;;;
+114;115;ribi_piirde_viimane_ylapuu WP 1;WP of ;;True;1363;45;19;0,061;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+114;117;ribi_piirde_viimane_ylapuu WP 2;WP of ;;False;45;19;1;0,045;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+114;119;ribi_piirde_viimane_ylapuu WP 3;WP of ;;False;1363;19;1;1,363;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+114;121;ribi_piirde_viimane_ylapuu WP 4;WP of ;;False;1363;19;1;1,363;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+114;123;ribi_piirde_viimane_ylapuu WP 5;WP of ;;False;45;19;1;0,045;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+88;125;ribi_piirde_viimane_taust;;;False;880;103;20;1;;;Part;;;
+125;126;ribi_piirde_viimane_taust WP 1;WP of ;;False;103;880;20;0,091;m²;;Fill Workpiece;Laminated Board;L_L_PLP;EG_W1000
+125;128;ribi_piirde_viimane_taust WP 2;WP of ;;False;103;20;1;0,103;m;Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+125;130;ribi_piirde_viimane_taust WP 3;WP of ;;False;880;20;1;0,88;m;Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+125;132;ribi_piirde_viimane_taust WP 4;WP of ;;False;103;8;1;0,103;m;Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+125;134;ribi_piirde_viimane_taust WP 5;WP of ;;False;880;20;1;0,88;m;Left;Cover Workpiece;Edge Band;ABS;EG_W1000
+75;142;ribi_piirde_paneel;;;;;;;5;;;Assembly;;;
+142;89;ribi_liist;;;True;1820;40;23;22;;;Part;;;
+89;90;ribi_liist WP 1;WP of ;;True;1820;40;23;0,073;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+89;92;ribi_liist WP 2;WP of ;;False;40;23;1;0,04;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+89;94;ribi_liist WP 3;WP of ;;False;1820;23;1;1,82;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+89;96;ribi_liist WP 4;WP of ;;False;40;23;1;0,04;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+89;98;ribi_liist WP 5;WP of ;;False;1820;23;1;1,82;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+142;143;ribi_piirde_riputusliist;;;True;1200;80;18;1;;;Part;;;
+143;144;ribi_piirde_riputusliist WP 1;WP of ;;True;1200;90;18;0,108;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+142;103;ribi_piirde_taust;;;False;1260;880;20;1;;;Part;;;
+103;104;ribi_piirde_taust WP 1;WP of ;;False;1260;880;20;1,109;m²;;Fill Workpiece;Laminated Board;L_L_PLP;EG_W1000
+103;106;ribi_piirde_taust WP 2;WP of ;;False;1260;8;1;1,26;m;Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+103;108;ribi_piirde_taust WP 3;WP of ;;False;880;20;1;0,88;m;Left;Cover Workpiece;Edge Band;ABS;EG_W1000
+103;110;ribi_piirde_taust WP 4;WP of ;;False;1260;20;1;1,26;m;Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+103;112;ribi_piirde_taust WP 5;WP of ;;False;880;20;1;0,88;m;Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+142;146;ribi_piirde_ylapuu;;;True;1260;45;19;1;;;Part;;;
+146;147;ribi_piirde_ylapuu WP 1;WP of ;;True;1260;45;19;0,057;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+146;149;ribi_piirde_ylapuu WP 2;WP of ;;False;45;19;1;0,045;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+146;151;ribi_piirde_ylapuu WP 3;WP of ;;False;1260;19;1;1,26;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+146;153;ribi_piirde_ylapuu WP 4;WP of ;;False;1260;19;1;1,26;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+146;155;ribi_piirde_ylapuu WP 5;WP of ;;False;45;19;1;0,045;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+75;77;ribi_piirde_t2iteliist;;;True;560;100;20;12;;;Part;;;
+77;78;ribi_piirde_t2iteliist WP 1;WP of ;;True;560;100;20;0,056;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+77;80;ribi_piirde_t2iteliist WP 2;WP of ;;False;;;0;0;m²;Left, Back, Right, Top;Cover Workpiece;Paint;värv;NCS_S_0500-N
+75;136;ribi_piirde_kinnitusliist;;;True;540;80;18;12;;;Part;;;
+136;137;ribi_piirde_kinnitusliist WP 1;WP of ;;True;540;80;18;0,043;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+75;139;ribi_piirde_riputuslatt;;;True;2460;80;18;3;;;Part;;;
+139;140;ribi_piirde_riputuslatt WP 1;WP of ;;True;2460;90;18;0,221;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+2;157;Taimekast_EM_04;;;;;;;1;;;Assembly;;;
+157;158;otsapaneel;;;True;1820;597;20;1;;;Part;;;
+158;159;otsapaneel WP 1;WP of ;;True;1820;597;20;1,087;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+158;161;otsapaneel WP 2;WP of ;;False;597;20;1;0,597;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+158;163;otsapaneel WP 3;WP of ;;False;1820;20;1;1,82;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+158;165;otsapaneel WP 4;WP of ;;False;597;20;1;0,597;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+157;167;kyljepaneel;;;True;1820;1432;20;1;;;Part;;;
+167;168;kyljepaneel WP 1;WP of ;;True;1820;1432;20;2,606;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+167;170;kyljepaneel WP 2;WP of ;;False;274;20;1;0,274;m;Right, Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+167;172;kyljepaneel WP 3;WP of ;;False;170;20;1;0,17;m;Right, Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+167;174;kyljepaneel WP 4;WP of ;;False;274;20;1;0,274;m;Right, Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+167;176;kyljepaneel WP 5;WP of ;;False;170;20;1;0,17;m;Right, Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+167;178;kyljepaneel WP 6;WP of ;;False;274;20;1;0,274;m;Right, Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+167;180;kyljepaneel WP 7;WP of ;;False;170;20;1;0,17;m;Right, Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+167;182;kyljepaneel WP 8;WP of ;;False;274;20;1;0,274;m;Right, Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+167;184;kyljepaneel WP 9;WP of ;;False;1160;20;1;1,16;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+167;186;kyljepaneel WP 10;WP of ;;False;1432;20;1;1,432;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+167;188;kyljepaneel WP 11;WP of ;;False;1820;20;1;1,82;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+167;190;kyljepaneel WP 12;WP of ;;False;336;20;1;0,336;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+167;192;kyljepaneel WP 13;WP of ;;False;150;20;1;0,15;m;Right, Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+157;194;taimekasti_v6lisots;;;True;990;509;20;1;;;Part;;;
+194;195;taimekasti_v6lisots WP 1;WP of ;;True;990;509;20;0,504;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+194;197;taimekasti_v6lisots WP 2;WP of ;;False;509;20;1;0,509;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+194;199;taimekasti_v6lisots WP 3;WP of ;;False;509;20;1;0,509;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+157;201;taimekasti_siseots;;;True;509;308;20;1;;;Part;;;
+201;202;taimekasti_siseots WP 1;WP of ;;True;308;509;20;0,157;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+201;204;taimekasti_siseots WP 2;WP of ;;False;509;20;1;0,509;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+157;206;taimekasti_v6liskylg;;;True;1412;990;20;1;;;Part;;;
+206;207;taimekasti_v6liskylg WP 1;WP of ;;True;990;1412;20;1,398;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+206;209;taimekasti_v6liskylg WP 2;WP of ;;False;1412;20;1;1,412;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+206;211;taimekasti_v6liskylg WP 3;WP of ;;False;990;20;1;0,99;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+206;213;taimekasti_v6liskylg WP 4;WP of ;;False;1412;20;1;1,412;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+157;215;taimekasti põhi_1;;;True;863;509;18;1;;;Part;;;
+215;216;taimekasti põhi_1 WP 1;WP of ;;True;863;509;18;0,439;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+157;226;taimekasti_roostevaba_vann;;;;;;;1;;;Purchased;;;
+2;218;Trepi_piire;;;;;;;1;;;Assembly;;;
+218;229;trepi_piirde_paneel_0;;;;;;;1;;;Assembly;;;
+229;230;Solid9;;;False;1517;820;20;1;;;Part;;;
+230;231;Solid9 WP 1;WP of ;;False;1517;820;20;1,244;m²;;Fill Workpiece;Laminated Board;L_L_PLP;EG_W1000
+230;233;Solid9 WP 2;WP of ;;False;1517;20;1;1,517;m;Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+230;235;Solid9 WP 3;WP of ;;False;820;20;1;0,82;m;Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+229;237;trepi_piirde_ribide_sideliist;;;True;1181;40;13;1;;;Part;;;
+237;238;trepi_piirde_ribide_sideliist WP 1;WP of ;;True;1201;40;13;0,048;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+237;240;trepi_piirde_ribide_sideliist WP 2;WP of ;;False;42;18;1;0,042;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+237;242;trepi_piirde_ribide_sideliist WP 3;WP of ;;False;1181;13;1;1,181;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+237;244;trepi_piirde_ribide_sideliist WP 4;WP of ;;False;1181;13;1;1,181;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+237;246;trepi_piirde_ribide_sideliist WP 5;WP of ;;False;42;18;1;0,042;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+218;248;trepi_piirde_paneel_1;;;;;;;1;;;Assembly;;;
+248;249;Solid13;;;False;2036;840;20;1;;;Part;;;
+249;250;Solid13 WP 1;WP of ;;False;2036;840;20;1,71;m²;;Fill Workpiece;Laminated Board;L_L_PLP;EG_W1000
+249;252;Solid13 WP 2;WP of ;;False;2036;20;1;2,036;m;Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+249;254;Solid13 WP 3;WP of ;;False;840;20;1;0,84;m;Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+249;256;Solid13 WP 4;WP of ;;False;1517;20;1;1,517;m;Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+248;237;trepi_piirde_ribide_sideliist;;;True;1181;40;13;1;;;Part;;;
+237;238;trepi_piirde_ribide_sideliist WP 1;WP of ;;True;1201;40;13;0,048;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+237;240;trepi_piirde_ribide_sideliist WP 2;WP of ;;False;42;18;1;0,042;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+237;242;trepi_piirde_ribide_sideliist WP 3;WP of ;;False;1181;13;1;1,181;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+237;244;trepi_piirde_ribide_sideliist WP 4;WP of ;;False;1181;13;1;1,181;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+237;246;trepi_piirde_ribide_sideliist WP 5;WP of ;;False;42;18;1;0,042;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+218;258;trepi_piirde_paneel_2;;;;;;;1;;;Assembly;;;
+258;259;Solid24;;;False;1277;840;20;1;;;Part;;;
+259;260;Solid24 WP 1;WP of ;;False;1277;840;20;1,073;m²;;Fill Workpiece;Laminated Board;L_L_PLP;EG_W1000
+259;262;Solid24 WP 2;WP of ;;False;879;20;1;0,879;m;Left, Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+259;264;Solid24 WP 3;WP of ;;False;1277;20;1;1,277;m;Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+259;266;Solid24 WP 4;WP of ;;False;1018;20;1;1,018;m;Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+259;268;Solid24 WP 5;WP of ;;False;840;20;1;0,84;m;Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+218;270;trepi_piirde_paneel_4;;;;;;;1;;;Assembly;;;
+270;271;Solid22;;;False;1537;840;20;1;;;Part;;;
+271;272;Solid22 WP 1;WP of ;;False;1537;840;20;1,291;m²;;Fill Workpiece;Laminated Board;L_L_PLP;EG_W1000
+271;274;Solid22 WP 2;WP of ;;False;879;20;1;0,879;m;Left, Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+271;276;Solid22 WP 3;WP of ;;False;1537;20;1;1,537;m;Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+271;278;Solid22 WP 4;WP of ;;False;1277;20;1;1,277;m;Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+271;280;Solid22 WP 5;WP of ;;False;840;20;1;0,84;m;Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+218;282;trepi_piirde_paneel_5;;;;;;;1;;;Assembly;;;
+282;283;Solid20;;;False;1785;804;20;1;;;Part;;;
+283;284;Solid20 WP 1;WP of ;;False;1785;804;20;1,436;m²;;Fill Workpiece;Laminated Board;L_L_PLP;EG_W1000
+283;286;Solid20 WP 2;WP of ;;False;842;20;1;0,842;m;Left, Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+283;288;Solid20 WP 3;WP of ;;False;1537;20;1;1,537;m;Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+283;290;Solid20 WP 4;WP of ;;False;1785;20;1;1,785;m;Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+283;292;Solid20 WP 5;WP of ;;False;804;20;1;0,804;m;Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+218;294;trepi_piirde_paneel_6;;;;;;;1;;;Assembly;;;
+294;295;Solid23;;;False;1537;840;20;1;;;Part;;;
+295;296;Solid23 WP 1;WP of ;;False;1537;840;20;1,291;m²;;Fill Workpiece;Laminated Board;L_L_PLP;EG_W1000
+295;298;Solid23 WP 2;WP of ;;False;879;20;1;0,879;m;Back, Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+295;300;Solid23 WP 3;WP of ;;False;1277;20;1;1,277;m;Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+295;302;Solid23 WP 4;WP of ;;False;1018;20;1;1,018;m;Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+294;237;trepi_piirde_ribide_sideliist;;;True;1181;40;13;1;;;Part;;;
+237;238;trepi_piirde_ribide_sideliist WP 1;WP of ;;True;1201;40;13;0,048;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+237;240;trepi_piirde_ribide_sideliist WP 2;WP of ;;False;42;18;1;0,042;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+237;242;trepi_piirde_ribide_sideliist WP 3;WP of ;;False;1181;13;1;1,181;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+237;244;trepi_piirde_ribide_sideliist WP 4;WP of ;;False;1181;13;1;1,181;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+237;246;trepi_piirde_ribide_sideliist WP 5;WP of ;;False;42;18;1;0,042;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+218;304;trepi_piirde_paneel_7;;;;;;;1;;;Assembly;;;
+304;305;Solid21;;;False;1796;840;20;1;;;Part;;;
+305;306;Solid21 WP 1;WP of ;;False;1796;840;20;1,509;m²;;Fill Workpiece;Laminated Board;L_L_PLP;EG_W1000
+305;308;Solid21 WP 2;WP of ;;False;879;20;1;0,879;m;Right, Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+305;310;Solid21 WP 3;WP of ;;False;1537;20;1;1,537;m;Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+305;312;Solid21 WP 4;WP of ;;False;1277;20;1;1,277;m;Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+304;237;trepi_piirde_ribide_sideliist;;;True;1181;40;13;1;;;Part;;;
+237;238;trepi_piirde_ribide_sideliist WP 1;WP of ;;True;1201;40;13;0,048;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+237;240;trepi_piirde_ribide_sideliist WP 2;WP of ;;False;42;18;1;0,042;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+237;242;trepi_piirde_ribide_sideliist WP 3;WP of ;;False;1181;13;1;1,181;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+237;244;trepi_piirde_ribide_sideliist WP 4;WP of ;;False;1181;13;1;1,181;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+237;246;trepi_piirde_ribide_sideliist WP 5;WP of ;;False;42;18;1;0,042;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+218;314;trepi_piirde_paneel_8;;;;;;;1;;;Assembly;;;
+314;315;Solid19;;;False;2034;804;20;1;;;Part;;;
+315;316;Solid19 WP 1;WP of ;;False;2034;804;20;1,636;m²;;Fill Workpiece;Laminated Board;L_L_PLP;EG_W1000
+315;318;Solid19 WP 2;WP of ;;False;842;20;1;0,842;m;Back, Right;Cover Workpiece;Edge Band;ABS;EG_W1000
+315;320;Solid19 WP 3;WP of ;;False;1537;20;1;1,537;m;Front;Cover Workpiece;Edge Band;ABS;EG_W1000
+315;322;Solid19 WP 4;WP of ;;False;1785;20;1;1,785;m;Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+314;324;trepi_piirde_ribide_sideliist;;;True;967;40;13;1;;;Part;;;
+324;325;trepi_piirde_ribide_sideliist WP 1;WP of ;;True;977;40;13;0,039;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+324;327;trepi_piirde_ribide_sideliist WP 2;WP of ;;False;967;13;1;0,967;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+324;329;trepi_piirde_ribide_sideliist WP 3;WP of ;;False;957;13;1;0,957;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+324;331;trepi_piirde_ribide_sideliist WP 4;WP of ;;False;42;18;1;0,042;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+218;333;Trepi_piirde_metall;;;;;;;1;;;Assembly;;;
+333;343;trepi_piirde_torud;;;;;;;1;;;Purchased;;;
+218;219;trepi_piirde_t2itekilp;;;False;785;300;20;1;;;Part;;;
+219;220;trepi_piirde_t2itekilp WP 1;WP of ;;False;785;300;20;0,236;m²;;Fill Workpiece;Laminated Board;L_L_PLP;EG_W1000
+219;222;trepi_piirde_t2itekilp WP 2;WP of ;;False;658;20;1;0,658;m;Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+218;224;trepi_piirde_t2ide;;;False;844;300;20;6;;;Part;;;
+224;225;trepi_piirde_t2ide WP 1;WP of ;;False;844;300;20;0,253;m²;;Fill Workpiece;Laminated Board;L_L_PLP;EG_W1000
+224;227;trepi_piirde_t2ide WP 2;WP of ;;False;658;20;1;0,658;m;Back;Cover Workpiece;Edge Band;ABS;EG_W1000
+2;336;Tumm_piire_L;;;;;;;1;;;Assembly;;;
+336;338;tumma_piirde_moodul;;;;;;;14;;;Assembly;;;
+338;9;tumma_piirde_paneel;;;True;1820;1000;19;1;;;Part;;;
+9;10;tumma_piirde_paneel WP 1;WP of ;;True;1830;1000;19;1,83;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+9;12;tumma_piirde_paneel WP 2;WP of ;;False;1820;19;1;1,82;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+9;14;tumma_piirde_paneel WP 3;WP of ;;False;1000;7;1;1;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+9;16;tumma_piirde_paneel WP 4;WP of ;;False;1820;19;1;1,82;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+338;18;tumma_piirde_kilp;;;True;1000;970;19;1;;;Part;;;
+18;19;tumma_piirde_kilp WP 1;WP of ;;True;970;1000;19;0,97;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+18;21;tumma_piirde_kilp WP 2;WP of ;;False;1000;19;1;1;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+18;23;tumma_piirde_kilp WP 3;WP of ;;False;970;19;1;0,97;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+18;25;tumma_piirde_kilp WP 4;WP of ;;False;970;19;1;0,97;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+338;27;tumma_piirde_ylapuu;;;True;1000;63;19;1;;;Part;;;
+27;28;tumma_piirde_ylapuu WP 1;WP of ;;True;1000;73;19;0,073;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+27;30;tumma_piirde_ylapuu WP 2;WP of ;;False;63;19;1;0,063;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+27;32;tumma_piirde_ylapuu WP 3;WP of ;;False;1000;19;1;1;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+27;34;tumma_piirde_ylapuu WP 4;WP of ;;False;63;19;1;0,063;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+338;36;tumma_piirde_riputusliist;;;False;900;80;19;1;;;Part;;;
+36;37;tumma_piirde_riputusliist WP 1;WP of ;;False;900;90;19;0,081;m²;;Fill Workpiece;Board;MDF;
+336;339;tumma_piirde_otsa_moodul_LV;;;;;;;1;;;Assembly;;;
+339;340;tumma_piirde_otsa_kilp_LV;;;True;970;651;19;1;;;Part;;;
+340;341;tumma_piirde_otsa_kilp_LV WP 1;WP of ;;True;970;651;19;0,631;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+340;343;tumma_piirde_otsa_kilp_LV WP 2;WP of ;;False;970;19;1;0,97;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+340;345;tumma_piirde_otsa_kilp_LV WP 3;WP of ;;False;651;19;1;0,651;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+340;347;tumma_piirde_otsa_kilp_LV WP 4;WP of ;;False;970;19;1;0,97;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+339;349;tumma_piirde_otsa_paneel_LV;;;True;1820;670;19;1;;;Part;;;
+349;350;tumma_piirde_otsa_paneel_LV WP 1;WP of ;;True;1830;680;19;1,244;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+349;352;tumma_piirde_otsa_paneel_LV WP 2;WP of ;;False;670;7;1;0,67;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+349;354;tumma_piirde_otsa_paneel_LV WP 3;WP of ;;False;1820;19;1;1,82;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+339;356;tumma_piirde_otsa_ylapuu_LV;;;True;670;63;19;1;;;Part;;;
+356;357;tumma_piirde_otsa_ylapuu_LV WP 1;WP of ;;True;680;73;19;0,05;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+356;359;tumma_piirde_otsa_ylapuu_LV WP 2;WP of ;;False;670;19;1;0,67;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+356;361;tumma_piirde_otsa_ylapuu_LV WP 3;WP of ;;False;63;19;1;0,063;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+339;363;tumma_piirde_otsa_l6petus_LV;;;True;1820;63;19;1;;;Part;;;
+363;364;tumma_piirde_otsa_l6petus_LV WP 1;WP of ;;True;1830;73;19;0,134;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+363;366;tumma_piirde_otsa_l6petus_LV WP 2;WP of ;;False;40;7;1;0,04;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+363;368;tumma_piirde_otsa_l6petus_LV WP 3;WP of ;;False;989;19;1;0,989;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+336;370;tumma_piirde_otsa_moodul_LP;;;;;;;1;;;Assembly;;;
+370;371;tumma_piirde_otsa_paneel_LP;;;True;1820;570;19;1;;;Part;;;
+371;372;tumma_piirde_otsa_paneel_LP WP 1;WP of ;;True;1830;580;19;1,061;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+371;374;tumma_piirde_otsa_paneel_LP WP 2;WP of ;;False;1820;19;1;1,82;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+371;376;tumma_piirde_otsa_paneel_LP WP 3;WP of ;;False;570;7;1;0,57;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+370;378;tumma_piirde_otsa_kilp_LP;;;True;970;551;19;1;;;Part;;;
+378;379;tumma_piirde_otsa_kilp_LP WP 1;WP of ;;True;970;551;19;0,534;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+378;381;tumma_piirde_otsa_kilp_LP WP 2;WP of ;;False;970;19;1;0,97;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+378;383;tumma_piirde_otsa_kilp_LP WP 3;WP of ;;False;551;19;1;0,551;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+378;385;tumma_piirde_otsa_kilp_LP WP 4;WP of ;;False;970;19;1;0,97;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+370;387;tumma_piirde_otsa_ylapuu_LP;;;True;570;63;19;1;;;Part;;;
+387;388;tumma_piirde_otsa_ylapuu_LP WP 1;WP of ;;True;580;73;19;0,042;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+387;390;tumma_piirde_otsa_ylapuu_LP WP 2;WP of ;;False;63;19;1;0,063;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+387;392;tumma_piirde_otsa_ylapuu_LP WP 3;WP of ;;False;570;19;1;0,57;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+370;394;tumma_piirde_otsa_l6petus_LP;;;True;1159;63;19;1;;;Part;;;
+394;395;tumma_piirde_otsa_l6petus_LP WP 1;WP of ;;True;1169;73;19;0,085;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+394;397;tumma_piirde_otsa_l6petus_LP WP 2;WP of ;;False;1159;19;1;1,159;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+394;399;tumma_piirde_otsa_l6petus_LP WP 3;WP of ;;False;63;19;1;0,063;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+336;401;tumma_piirde_nurga_moodul;;;;;;;1;;;Assembly;;;
+401;402;tumma_piirde_nurga_paneel_V;;;True;1820;960;19;1;;;Part;;;
+402;403;tumma_piirde_nurga_paneel_V WP 1;WP of ;;True;1830;970;19;1,775;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+402;405;tumma_piirde_nurga_paneel_V WP 2;WP of ;;False;1820;19;1;1,82;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+402;407;tumma_piirde_nurga_paneel_V WP 3;WP of ;;False;960;19;1;0,96;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+401;409;tumma_piirde_nurga_kilp_V;;;True;1000;970;19;1;;;Part;;;
+409;410;tumma_piirde_nurga_kilp_V WP 1;WP of ;;True;970;1010;19;0,98;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+409;412;tumma_piirde_nurga_kilp_V WP 2;WP of ;;False;1000;19;1;1;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+409;414;tumma_piirde_nurga_kilp_V WP 3;WP of ;;False;1000;19;1;1;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+409;416;tumma_piirde_nurga_kilp_V WP 4;WP of ;;False;970;19;1;0,97;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+401;418;tumma_piirde_nurga_ylapuu_V;;;True;1004;63;19;1;;;Part;;;
+418;419;tumma_piirde_nurga_ylapuu_V WP 1;WP of ;;True;1004;73;19;0,073;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+418;421;tumma_piirde_nurga_ylapuu_V WP 2;WP of ;;False;63;19;1;0,063;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+418;423;tumma_piirde_nurga_ylapuu_V WP 3;WP of ;;False;1004;19;1;1,004;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+401;36;tumma_piirde_riputusliist;;;False;900;80;19;2;;;Part;;;
+36;37;tumma_piirde_riputusliist WP 1;WP of ;;False;900;90;19;0,081;m²;;Fill Workpiece;Board;MDF;
+401;425;tumma_piirde_nurga_ylapuu_P;;;True;1004;63;19;1;;;Part;;;
+425;426;tumma_piirde_nurga_ylapuu_P WP 1;WP of ;;True;1004;73;19;0,073;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+425;428;tumma_piirde_nurga_ylapuu_P WP 2;WP of ;;False;63;19;1;0,063;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+425;430;tumma_piirde_nurga_ylapuu_P WP 3;WP of ;;False;1004;19;1;1,004;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+401;432;tumma_piirde_nurga_paneel_P;;;True;1820;960;19;1;;;Part;;;
+432;433;tumma_piirde_nurga_paneel_P WP 1;WP of ;;True;1830;970;19;1,775;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+432;435;tumma_piirde_nurga_paneel_P WP 2;WP of ;;False;1820;19;1;1,82;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+432;437;tumma_piirde_nurga_paneel_P WP 3;WP of ;;False;960;19;1;0,96;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+401;439;tumma_piirde_nurga_kilp_P;;;True;1000;970;19;1;;;Part;;;
+439;440;tumma_piirde_nurga_kilp_P WP 1;WP of ;;True;970;1010;19;0,98;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+439;442;tumma_piirde_nurga_kilp_P WP 2;WP of ;;False;1000;19;1;1;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+439;444;tumma_piirde_nurga_kilp_P WP 3;WP of ;;False;970;19;1;0,97;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN
+336;337;Tumma_piirde_metall_L;;;;;;;1;;;Purchased;;;
+2;334;trepi_k2sipuu_kronstein_metalli_kylge;;;;;;;9;;;Purchased;;;
+2;335;trepi_k2sipuu_kronstein_seinale;;;;;;;6;;;Purchased;;;
+1;446;182843_Veeauru_kamin_EM_03;;;;;;;1;;;Assembly;;;
+446;447;Veeauru_kamina_otsakapp;;;;;;;1;;;Assembly;;;
+447;479;kaminakapi_vasak_uks;;;;;;;1;;;Assembly;;;
+479;480;kaminakapi_vasak_uks;;;True;529;388;16;1;;;Part;;;
+480;481;kaminakapi_vasak_uks WP 1;WP of ;;True;388;529;16;0,205;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+480;483;kaminakapi_vasak_uks WP 2;WP of ;;False;388;16;1;0,388;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+480;485;kaminakapi_vasak_uks WP 3;WP of ;;False;529;16;1;0,529;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+480;487;kaminakapi_vasak_uks WP 4;WP of ;;False;388;16;1;0,388;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+480;489;kaminakapi_vasak_uks WP 5;WP of ;;False;529;16;1;0,529;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+479;491;kaminakapi_ukse_ribi;;;True;407;40;19;9;;;Part;;;
+491;492;kaminakapi_ukse_ribi WP 1;WP of ;;True;417;40;19;0,017;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+491;494;kaminakapi_ukse_ribi WP 2;WP of ;;False;44;27;1;0,044;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+491;496;kaminakapi_ukse_ribi WP 3;WP of ;;False;407;19;1;0,407;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+491;498;kaminakapi_ukse_ribi WP 4;WP of ;;False;40;19;1;0,04;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+491;500;kaminakapi_ukse_ribi WP 5;WP of ;;False;407;19;1;0,407;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+447;502;kaminakapi_parem_uks;;;;;;;1;;;Assembly;;;
+502;503;kaminakapi_parem_uks;;;True;529;388;16;1;;;Part;;;
+503;504;kaminakapi_parem_uks WP 1;WP of ;;True;388;529;16;0,205;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+503;506;kaminakapi_parem_uks WP 2;WP of ;;False;388;16;1;0,388;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+503;508;kaminakapi_parem_uks WP 3;WP of ;;False;529;16;1;0,529;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+503;510;kaminakapi_parem_uks WP 4;WP of ;;False;388;16;1;0,388;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+503;512;kaminakapi_parem_uks WP 5;WP of ;;False;529;16;1;0,529;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+502;491;kaminakapi_ukse_ribi;;;True;407;40;19;9;;;Part;;;
+491;492;kaminakapi_ukse_ribi WP 1;WP of ;;True;417;40;19;0,017;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+491;494;kaminakapi_ukse_ribi WP 2;WP of ;;False;44;27;1;0,044;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+491;496;kaminakapi_ukse_ribi WP 3;WP of ;;False;407;19;1;0,407;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+491;498;kaminakapi_ukse_ribi WP 4;WP of ;;False;40;19;1;0,04;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+491;500;kaminakapi_ukse_ribi WP 5;WP of ;;False;407;19;1;0,407;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+447;448;kaminakapi_p6hi;;;False;1032;372;16;1;;;Part;;;
+448;449;kaminakapi_p6hi WP 1;WP of ;;False;1032;372;16;0,384;m²;;Fill Workpiece;Laminated Board;MEL;EG_U999
+448;451;kaminakapi_p6hi WP 2;WP of ;;False;1032;16;1;1,032;m;Front;Cover Workpiece;Edge Band;ABS;EG_U999
+447;453;kaminakapi_otsakilp;;;True;390;372;16;1;;;Part;;;
+453;454;kaminakapi_otsakilp WP 1;WP of ;;True;390;372;16;0,145;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+453;456;kaminakapi_otsakilp WP 2;WP of ;;False;390;16;1;0,39;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+453;458;kaminakapi_otsakilp WP 3;WP of ;;False;372;16;1;0,372;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+453;460;kaminakapi_otsakilp WP 4;WP of ;;False;390;16;1;0,39;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+447;462;kaminakapi_parem_kylg;;;False;372;270;16;1;;;Part;;;
+462;463;kaminakapi_parem_kylg WP 1;WP of ;;False;372;270;16;0,1;m²;;Fill Workpiece;Laminated Board;MEL;EG_U999
+462;465;kaminakapi_parem_kylg WP 2;WP of ;;False;372;16;1;0,372;m;Front;Cover Workpiece;Edge Band;ABS;EG_U999
+462;467;kaminakapi_parem_kylg WP 3;WP of ;;False;270;16;1;0,27;m;Left;Cover Workpiece;Edge Band;ABS;EG_U999
+447;469;kaminakapi_tagasein;;;False;1032;254;16;1;;;Part;;;
+469;470;kaminakapi_tagasein WP 1;WP of ;;False;1032;254;16;0,262;m²;;Fill Workpiece;Laminated Board;MEL;EG_U999
+447;472;kaminakapi_vahekilp;;;False;391;390;16;1;;;Part;;;
+472;473;kaminakapi_vahekilp WP 1;WP of ;;False;391;390;16;0,152;m²;;Fill Workpiece;Laminated Board;MEL;EG_U999
+472;475;kaminakapi_vahekilp WP 2;WP of ;;False;25;16;1;0,025;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+472;477;kaminakapi_vahekilp WP 3;WP of ;;False;390;16;1;0,39;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+446;514;Veeauru_kamina_vahekapp;;;;;;;2;;;Assembly;;;
+514;479;kaminakapi_vasak_uks;;;;;;;1;;;Assembly;;;
+479;480;kaminakapi_vasak_uks;;;True;529;388;16;1;;;Part;;;
+480;481;kaminakapi_vasak_uks WP 1;WP of ;;True;388;529;16;0,205;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+480;483;kaminakapi_vasak_uks WP 2;WP of ;;False;388;16;1;0,388;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+480;485;kaminakapi_vasak_uks WP 3;WP of ;;False;529;16;1;0,529;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+480;487;kaminakapi_vasak_uks WP 4;WP of ;;False;388;16;1;0,388;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+480;489;kaminakapi_vasak_uks WP 5;WP of ;;False;529;16;1;0,529;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+479;491;kaminakapi_ukse_ribi;;;True;407;40;19;9;;;Part;;;
+491;492;kaminakapi_ukse_ribi WP 1;WP of ;;True;417;40;19;0,017;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+491;494;kaminakapi_ukse_ribi WP 2;WP of ;;False;44;27;1;0,044;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+491;496;kaminakapi_ukse_ribi WP 3;WP of ;;False;407;19;1;0,407;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+491;498;kaminakapi_ukse_ribi WP 4;WP of ;;False;40;19;1;0,04;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+491;500;kaminakapi_ukse_ribi WP 5;WP of ;;False;407;19;1;0,407;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+514;502;kaminakapi_parem_uks;;;;;;;1;;;Assembly;;;
+502;503;kaminakapi_parem_uks;;;True;529;388;16;1;;;Part;;;
+503;504;kaminakapi_parem_uks WP 1;WP of ;;True;388;529;16;0,205;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+503;506;kaminakapi_parem_uks WP 2;WP of ;;False;388;16;1;0,388;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+503;508;kaminakapi_parem_uks WP 3;WP of ;;False;529;16;1;0,529;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+503;510;kaminakapi_parem_uks WP 4;WP of ;;False;388;16;1;0,388;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+503;512;kaminakapi_parem_uks WP 5;WP of ;;False;529;16;1;0,529;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+502;491;kaminakapi_ukse_ribi;;;True;407;40;19;9;;;Part;;;
+491;492;kaminakapi_ukse_ribi WP 1;WP of ;;True;417;40;19;0,017;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+491;494;kaminakapi_ukse_ribi WP 2;WP of ;;False;44;27;1;0,044;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+491;496;kaminakapi_ukse_ribi WP 3;WP of ;;False;407;19;1;0,407;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+491;498;kaminakapi_ukse_ribi WP 4;WP of ;;False;40;19;1;0,04;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+491;500;kaminakapi_ukse_ribi WP 5;WP of ;;False;407;19;1;0,407;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+514;469;kaminakapi_tagasein;;;False;1032;254;16;1;;;Part;;;
+469;470;kaminakapi_tagasein WP 1;WP of ;;False;1032;254;16;0,262;m²;;Fill Workpiece;Laminated Board;MEL;EG_U999
+514;472;kaminakapi_vahekilp;;;False;391;390;16;1;;;Part;;;
+472;473;kaminakapi_vahekilp WP 1;WP of ;;False;391;390;16;0,152;m²;;Fill Workpiece;Laminated Board;MEL;EG_U999
+472;475;kaminakapi_vahekilp WP 2;WP of ;;False;25;16;1;0,025;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+472;477;kaminakapi_vahekilp WP 3;WP of ;;False;390;16;1;0,39;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+514;448;kaminakapi_p6hi;;;False;1032;372;16;1;;;Part;;;
+448;449;kaminakapi_p6hi WP 1;WP of ;;False;1032;372;16;0,384;m²;;Fill Workpiece;Laminated Board;MEL;EG_U999
+448;451;kaminakapi_p6hi WP 2;WP of ;;False;1032;16;1;1,032;m;Front;Cover Workpiece;Edge Band;ABS;EG_U999
+514;462;kaminakapi_parem_kylg;;;False;372;270;16;1;;;Part;;;
+462;463;kaminakapi_parem_kylg WP 1;WP of ;;False;372;270;16;0,1;m²;;Fill Workpiece;Laminated Board;MEL;EG_U999
+462;465;kaminakapi_parem_kylg WP 2;WP of ;;False;372;16;1;0,372;m;Front;Cover Workpiece;Edge Band;ABS;EG_U999
+462;467;kaminakapi_parem_kylg WP 3;WP of ;;False;270;16;1;0,27;m;Left;Cover Workpiece;Edge Band;ABS;EG_U999
+514;515;kaminakapi_vasak_kylg;;;False;372;270;16;1;;;Part;;;
+515;516;kaminakapi_vasak_kylg WP 1;WP of ;;False;372;270;16;0,1;m²;;Fill Workpiece;Laminated Board;MEL;EG_U999
+515;518;kaminakapi_vasak_kylg WP 2;WP of ;;False;372;16;1;0,372;m;Front;Cover Workpiece;Edge Band;ABS;EG_U999
+515;520;kaminakapi_vasak_kylg WP 3;WP of ;;False;270;16;1;0,27;m;Left;Cover Workpiece;Edge Band;ABS;EG_U999
+446;522;Veeauru_kamina_pink;;;;;;;1;;;Assembly;;;
+522;550;pingi_esipaneel;;;;;;;1;;;Assembly;;;
+550;551;pingi_esipaneel;;;True;2262;390;16;1;;;Part;;;
+551;552;pingi_esipaneel WP 1;WP of ;;True;390;2262;16;0,882;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+551;554;pingi_esipaneel WP 2;WP of ;;False;390;16;1;0,39;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+551;556;pingi_esipaneel WP 3;WP of ;;False;2262;16;1;2,262;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+551;558;pingi_esipaneel WP 4;WP of ;;False;390;16;1;0,39;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+550;560;pingi_esipaneeli_ribi;;;True;409;40;19;38;;;Part;;;
+560;561;pingi_esipaneeli_ribi WP 1;WP of ;;True;419;40;19;0,017;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+560;563;pingi_esipaneeli_ribi WP 2;WP of ;;False;409;19;1;0,409;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+560;565;pingi_esipaneeli_ribi WP 3;WP of ;;False;40;19;1;0,04;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+560;567;pingi_esipaneeli_ribi WP 4;WP of ;;False;409;19;1;0,409;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+522;523;pingi_p6hi;;;False;2245;375;16;1;;;Part;;;
+523;524;pingi_p6hi WP 1;WP of ;;False;2245;375;16;0,842;m²;;Fill Workpiece;Laminated Board;MEL;EG_U999
+522;526;pingi_tagasein;;;False;2245;254;16;1;;;Part;;;
+526;527;pingi_tagasein WP 1;WP of ;;False;2245;254;16;0,57;m²;;Fill Workpiece;Laminated Board;MEL;EG_U999
+522;529;pingi_otsakilp;;;True;390;375;16;1;;;Part;;;
+529;530;pingi_otsakilp WP 1;WP of ;;True;390;375;16;0,146;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+529;532;pingi_otsakilp WP 2;WP of ;;False;390;16;1;0,39;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+529;534;pingi_otsakilp WP 3;WP of ;;False;375;16;1;0,375;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+522;536;pingi_vahesein;;;False;359;254;16;5;;;Part;;;
+536;537;pingi_vahesein WP 1;WP of ;;False;359;254;16;0,091;m²;;Fill Workpiece;Laminated Board;MEL;EG_U999
+522;539;pingi_plaat;;;True;2278;410;19;1;;;Part;;;
+539;540;pingi_plaat WP 1;WP of ;;True;2278;420;19;0,957;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+539;542;pingi_plaat WP 2;WP of ;;False;2278;19;1;2,278;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+539;544;pingi_plaat WP 3;WP of ;;False;2278;27;1;2,278;m;Inward;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+539;546;pingi_plaat WP 4;WP of ;;False;410;19;1;0,41;m;Left;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+539;548;pingi_plaat WP 5;WP of ;;False;410;19;1;0,41;m;Right;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+446;530;kaminakapi_kiviplaat;;;;;;;1;;;Purchased;;;
+1;569;182844_Taimekast_EM_01;;;;;;;1;;;Assembly;;;
+569;570;Taimekast_EM_01;;;;;;;2;;;Assembly;;;
+570;571;taimekasti_kylg_01;;;True;1500;360;39;2;;;Part;;;
+571;572;taimekasti_kylg_01 WP 1;WP of ;;True;1520;360;39;0,547;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+571;574;taimekasti_kylg_01 WP 2;WP of ;;False;1500;6;1;1,5;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+571;576;taimekasti_kylg_01 WP 3;WP of ;;False;1500;39;1;1,5;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+570;578;taimekasti_ots_01;;;True;600;360;39;2;;;Part;;;
+578;579;taimekasti_ots_01 WP 1;WP of ;;True;620;360;39;0,223;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+578;581;taimekasti_ots_01 WP 2;WP of ;;False;600;6;1;0,6;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+578;583;taimekasti_ots_01 WP 3;WP of ;;False;600;39;1;0,6;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+570;585;taimekasti_p6hi_01;;;True;1422;522;18;1;;;Part;;;
+585;586;taimekasti_p6hi_01 WP 1;WP of ;;True;1422;522;18;0,742;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+570;588;taimekasti_sokli_serv_01;;;True;1440;60;39;2;;;Part;;;
+588;589;taimekasti_sokli_serv_01 WP 1;WP of ;;True;1440;60;39;0,086;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+570;591;taimekasti_sokli_ots_01;;;True;420;60;39;2;;;Part;;;
+591;592;taimekasti_sokli_ots_01 WP 1;WP of ;;True;420;60;39;0,025;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+570;598;taimekasti_LED_kate_01;;joonise järgi;;;;;1;;;Purchased;;;
+570;599;taimekasti_RST_vann_01;;joonise järgi;;;;;1;;;Purchased;;;
+570;607;puit_tyybel_8x35;;;;;;;14;;;Purchased;;;
+570;594;plastiktald;;;;;;;4;;;Purchased;;;
+570;595;RST sokliplekk 1442x39;;;;;;;2;;;Purchased;;;
+570;596;RST sokliplekk 540x39;;;;;;;2;;;Purchased;;;
+570;597;LED Alu nurgaprofiilis L=1470;;;;;;;2;;;Purchased;;;
+570;598;LED Alu nurgaprofiilis L=570;;;;;;;2;;;Purchased;;;
+1;599;182845_Taimekast_EM_02;;;;;;;1;;;Assembly;;;
+599;600;Taimekast_EM_02;;;;;;;2;;;Assembly;;;
+600;601;taimekasti_kylg_02;;;True;2200;560;39;2;;;Part;;;
+601;602;taimekasti_kylg_02 WP 1;WP of ;;True;2220;560;39;1,243;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+601;604;taimekasti_kylg_02 WP 2;WP of ;;False;2200;6;1;2,2;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+601;606;taimekasti_kylg_02 WP 3;WP of ;;False;2200;39;1;2,2;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+600;608;taimekasti_ots_02;;;True;560;400;39;2;;;Part;;;
+608;609;taimekasti_ots_02 WP 1;WP of ;;True;420;560;39;0,235;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN_MUST
+608;611;taimekasti_ots_02 WP 2;WP of ;;False;400;6;1;0,4;m;Back;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+608;613;taimekasti_ots_02 WP 3;WP of ;;False;400;39;1;0,4;m;Front;Cover Workpiece;Edge Band;spoonikant;TAMM_TAN_MUST
+600;615;taimekasti_p6hi_02;;;True;2122;322;18;1;;;Part;;;
+615;616;taimekasti_p6hi_02 WP 1;WP of ;;True;2122;322;18;0,683;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+600;618;taimekasti_sokli_serv_02;;;True;2140;60;39;2;;;Part;;;
+618;619;taimekasti_sokli_serv_02 WP 1;WP of ;;True;2140;60;39;0,128;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+600;621;taimekasti_sokli_ots_02;;;True;220;60;39;2;;;Part;;;
+621;622;taimekasti_sokli_ots_02 WP 1;WP of ;;True;220;60;39;0,013;m²;;Fill Workpiece;Laminated Board;SPP_PLP;TAMM_TAN
+600;633;taimekasti_LED_kate_02;;joonise järgi;;;;;1;;;Purchased;;;
+600;634;taimekasti_RST_vann_02;;joonise järgi;;;;;1;;;Purchased;;;
+600;594;plastiktald;;;;;;;4;;;Purchased;;;
+600;607;puit_tyybel_8x35;;;;;;;22;;;Purchased;;;
+600;625;RST sokliplekk 2142x39;;;;;;;2;;;Purchased;;;
+600;626;RST sokliplekk 340x39;;;;;;;2;;;Purchased;;;
+600;627;LED Alu nurgaprofiilis L=2170;;;;;;;2;;;Purchased;;;
+600;628;LED Alu nurgaprofiilis L=370;;;;;;;2;;;Purchased;;;
