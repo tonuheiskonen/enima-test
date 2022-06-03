@@ -1,0 +1,578 @@
+﻿parentID;ID;code;name;comments;hasGrain;length;width;thickness;quantity;units;coverSide;type;materialType;materialCode;colorCode
+;1;lett;;;;;;;1;;;Assembly;;;
+1;3;moodul_Y1;;;;;;;1;;;Assembly;;;
+3;4;Y1_esipaneel;;;True;1450;862;15;1;;;Part;;;
+4;5;Y1_esipaneel WP 1;WP of ;;True;1450;862;15;1,25;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+4;7;Y1_esipaneel WP 2;WP of ;;False;;;0;0;m²;Bottom;Cover Workpiece;Paint;värv;RAL_9011
+3;9;Y1_vasak_kylg;;;False;909;663;18;1;;;Part;;;
+9;10;Y1_vasak_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+9;12;Y1_vasak_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+9;14;Y1_vasak_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+3;16;Y1_parem_kylg;;;False;909;663;18;1;;;Part;;;
+16;17;Y1_parem_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+16;19;Y1_parem_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+16;21;Y1_parem_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+3;23;Y1_p6hi;;;False;1214;662;18;1;;;Part;;;
+23;24;Y1_p6hi WP 1;WP of ;;False;1214;662;18;0,804;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+23;26;Y1_p6hi WP 2;WP of ;;False;1214;18;1;1,214;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+3;28;Y1_yhendus_paneel;;;False;400;200;18;1;;;Part;;;
+28;29;Y1_yhendus_paneel WP 1;WP of ;;False;400;200;18;0,08;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+28;31;Y1_yhendus_paneel WP 2;WP of ;;False;400;18;1;0,4;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+3;33;Y1_lisatykk;;;False;200;65;18;1;;;Part;;;
+33;34;Y1_lisatykk WP 1;WP of ;;False;200;65;18;0,013;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+3;36;Y1_yhendus_latt;;;False;823;120;18;1;;;Part;;;
+36;37;Y1_yhendus_latt WP 1;WP of ;;False;823;120;18;0,099;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+3;39;Y1_sise_sokkel;;;False;1250;68;18;1;;;Part;;;
+39;40;Y1_sise_sokkel WP 1;WP of ;;False;1250;68;18;0,085;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+39;42;Y1_sise_sokkel WP 2;WP of ;;False;1250;18;1;1,25;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+39;44;Y1_sise_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+39;46;Y1_sise_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+3;48;Y1_v2lis_sokkel;;;False;1450;68;18;1;;;Part;;;
+48;49;Y1_v2lis_sokkel WP 1;WP of ;;False;1450;68;18;0,099;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+48;51;Y1_v2lis_sokkel WP 2;WP of ;;False;1450;18;1;1,45;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+48;53;Y1_v2lis_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+48;55;Y1_v2lis_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+3;57;Y1_t66pinna_vasak_serv;;;True;680;50;21;1;;;Part;;;
+57;58;Y1_t66pinna_vasak_serv WP 1;WP of ;;True;680;50;21;0,034;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+57;60;Y1_t66pinna_vasak_serv WP 2;WP of ;;False;;;0;0;m²;Left, Front, Bottom;Cover Workpiece;Paint;värv;RAL_9011
+3;68;Y1_t66pinna_parem_serv;;;True;680;300;21;1;;;Part;;;
+68;69;Y1_t66pinna_parem_serv WP 1;WP of ;;True;680;300;21;0,204;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+68;71;Y1_t66pinna_parem_serv WP 2;WP of ;;False;;;0;0;m²;Left, Back, Front, Bottom;Cover Workpiece;Paint;värv;RAL_9011
+3;89;Y1_t66pinna_tugiliist;;;True;1214;80;21;1;;;Part;;;
+89;90;Y1_t66pinna_tugiliist WP 1;WP of ;;True;1214;80;21;0,097;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+89;92;Y1_t66pinna_tugiliist WP 2;WP of ;;False;;;0;0;m²;Front, Bottom;Cover Workpiece;Paint;värv;RAL_9011
+3;607;puit_tyybel_8x35;;;;;;;12;;;Purchased;;;
+3;13;Kruvitõmmits 5x50;;;;;;;20;;;Purchased;;;
+3;13;Kruvitõmmits 5x50;;;;;;;15;;;Purchased;;;
+3;16;Sokli korrigeerija MF 300-00-Z2-00-Z2;;;;;;;4;;;Purchased;;;
+1;96;moodul_A2;;;;;;;1;;;Assembly;;;
+96;97;A2_parem_kylg;;;False;909;642;18;1;;;Part;;;
+97;98;A2_parem_kylg WP 1;WP of ;;False;909;642;18;0,584;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+97;100;A2_parem_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+97;102;A2_parem_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+96;104;A2_vasak_kylg;;;False;909;642;18;1;;;Part;;;
+104;105;A2_vasak_kylg WP 1;WP of ;;False;909;642;18;0,584;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+104;107;A2_vasak_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+104;109;A2_vasak_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+96;111;A2_p6hi;;;False;709;641;18;1;;;Part;;;
+111;112;A2_p6hi WP 1;WP of ;;False;709;641;18;0,454;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+111;114;A2_p6hi WP 2;WP of ;;False;709;18;1;0,709;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+96;116;A2_sideliist;;;False;709;112;18;1;;;Part;;;
+116;117;A2_sideliist WP 1;WP of ;;False;709;112;18;0,079;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+116;119;A2_sideliist WP 2;WP of ;;False;709;18;1;0,709;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+96;121;A2_välis_sokkel;;;False;745;68;18;1;;;Part;;;
+121;122;A2_välis_sokkel WP 1;WP of ;;False;745;68;18;0,051;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+121;124;A2_välis_sokkel WP 2;WP of ;;False;745;18;1;0,745;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+121;126;A2_välis_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+121;128;A2_välis_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+96;130;A2_esipaneel;;;True;862;745;15;1;;;Part;;;
+130;131;A2_esipaneel WP 1;WP of ;;True;862;745;15;0,642;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+130;133;A2_esipaneel WP 2;WP of ;;False;;;0;0;m²;Top;Cover Workpiece;Paint;värv;RAL_9011
+96;135;A2_t66pind;;;True;745;680;21;1;;;Part;;;
+135;136;A2_t66pind WP 1;WP of ;;True;745;680;21;0,507;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+135;138;A2_t66pind WP 2;WP of ;;False;;;0;0;m²;Front, Bottom, Inward;Cover Workpiece;Paint;värv;RAL_9011
+96;148;A2_parem_uks;;;False;837;368;18;1;;;Part;;;
+148;149;A2_parem_uks WP 1;WP of ;;False;837;368;18;0,308;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+148;151;A2_parem_uks WP 2;WP of ;;False;837;18;1;0,837;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+148;153;A2_parem_uks WP 3;WP of ;;False;368;18;1;0,368;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+148;155;A2_parem_uks WP 4;WP of ;;False;837;18;1;0,837;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+148;157;A2_parem_uks WP 5;WP of ;;False;368;18;1;0,368;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+96;159;A2_vasak_uks;;;False;837;368;18;1;;;Part;;;
+159;160;A2_vasak_uks WP 1;WP of ;;False;837;368;18;0,308;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+159;162;A2_vasak_uks WP 2;WP of ;;False;837;18;1;0,837;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+159;164;A2_vasak_uks WP 3;WP of ;;False;368;18;1;0,368;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+159;166;A2_vasak_uks WP 4;WP of ;;False;837;18;1;0,837;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+159;168;A2_vasak_uks WP 5;WP of ;;False;368;18;1;0,368;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+96;170;A2_sise_sokkel;;;False;745;68;18;1;;;Part;;;
+170;171;A2_sise_sokkel WP 1;WP of ;;False;745;68;18;0,051;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+170;173;A2_sise_sokkel WP 2;WP of ;;False;745;18;1;0,745;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+170;175;A2_sise_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+170;177;A2_sise_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+96;607;puit_tyybel_8x35;;;;;;;12;;;Purchased;;;
+96;13;Kruvitõmmits 5x50;;;;;;;22;;;Purchased;;;
+96;13;Kruvitõmmits 5x50;;;;;;;6;;;Purchased;;;
+96;16;Sokli korrigeerija MF 300-00-Z2-00-Z2;;;;;;;4;;;Purchased;;;
+96;111;Hing Clip Top 110° vaikselt sulguv täispeale expando: Blum 71B358E ;H;;;;;;4;;;Purchased;;;
+96;112;Tald Clip Top 0 mm expando: Blum 174E610;T;;;;;;4;;;Purchased;;;
+96;195;A2_sokliplekk;;;;;;;1;;;Purchased;;;
+1;179;moodul_A1;;;;;;;1;;;Assembly;;;
+179;180;A1_vasak_kylg;;;False;909;663;18;1;;;Part;;;
+180;181;A1_vasak_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+180;183;A1_vasak_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+180;185;A1_vasak_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+179;187;A1_parem_kylg;;;False;909;663;18;1;;;Part;;;
+187;188;A1_parem_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+187;190;A1_parem_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+187;192;A1_parem_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+179;194;A1_põhi;;;False;1173;662;18;1;;;Part;;;
+194;195;A1_põhi WP 1;WP of ;;False;1173;662;18;0,777;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+194;197;A1_põhi WP 2;WP of ;;False;1173;18;1;1,173;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+179;199;A1_sise_sokkel;;;False;1209;68;18;1;;;Part;;;
+199;200;A1_sise_sokkel WP 1;WP of ;;False;1209;68;18;0,082;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+199;202;A1_sise_sokkel WP 2;WP of ;;False;1209;18;1;1,209;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+199;204;A1_sise_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+199;206;A1_sise_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+179;208;A1_v2lis_sokkel;;;False;1209;68;18;1;;;Part;;;
+208;209;A1_v2lis_sokkel WP 1;WP of ;;False;1209;68;18;0,082;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+208;211;A1_v2lis_sokkel WP 2;WP of ;;False;1209;18;1;1,209;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+208;213;A1_v2lis_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+208;215;A1_v2lis_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+179;217;A1_esipaneel;;;True;1210;862;15;1;;;Part;;;
+217;218;A1_esipaneel WP 1;WP of ;;True;1210;862;15;1,043;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+217;220;A1_esipaneel WP 2;WP of ;;False;;;0;0;m²;Left, Top;Cover Workpiece;Paint;värv;RAL_9011
+179;224;A1_t66pinna_parem_serv;;;True;680;55;21;1;;;Part;;;
+224;225;A1_t66pinna_parem_serv WP 1;WP of ;;True;680;55;21;0,037;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+224;227;A1_t66pinna_parem_serv WP 2;WP of ;;False;;;0;0;m²;Left, Back, Front, Bottom;Cover Workpiece;Paint;värv;RAL_9011
+179;237;A1_t66pinna_vasak_serv;;;True;680;55;21;1;;;Part;;;
+237;238;A1_t66pinna_vasak_serv WP 1;WP of ;;True;680;55;21;0,037;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+237;240;A1_t66pinna_vasak_serv WP 2;WP of ;;False;;;0;0;m²;Left, Back, Front, Bottom;Cover Workpiece;Paint;värv;RAL_9011
+179;250;A1_t66pinna_tugiliist;;;True;1173;80;21;1;;;Part;;;
+250;251;A1_t66pinna_tugiliist WP 1;WP of ;;True;1173;80;21;0,094;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+250;253;A1_t66pinna_tugiliist WP 2;WP of ;;False;;;0;0;m²;Front, Bottom;Cover Workpiece;Paint;värv;RAL_9011
+179;16;Sokli korrigeerija MF 300-00-Z2-00-Z2;;;;;;;4;;;Purchased;;;
+179;13;Kruvitõmmits 5x50;;;;;;;25;;;Purchased;;;
+179;607;puit_tyybel_8x35;;;;;;;8;;;Purchased;;;
+179;274;A1_sokliplekk;;;;;;;1;;;Purchased;;;
+1;257;moodul_D1;;;;;;;1;;;Assembly;;;
+257;261;D1_esipaneel;;;True;2217;862;15;1;;;Part;;;
+261;262;D1_esipaneel WP 1;WP of ;;True;2217;862;15;1,911;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+261;264;D1_esipaneel WP 2;WP of ;;False;;;0;0;m²;Bottom;Cover Workpiece;Paint;värv;RAL_9011
+257;266;D1_t66pind;;;True;2217;680;21;1;;;Part;;;
+266;267;D1_t66pind WP 1;WP of ;;True;2217;680;21;1,508;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+266;269;D1_t66pind WP 2;WP of ;;False;;;0;0;m²;Left, Back, Right, Bottom;Cover Workpiece;Paint;värv;RAL_9011
+257;295;D1_vasak_kylg;;;False;899;663;18;1;;;Part;;;
+295;296;D1_vasak_kylg WP 1;WP of ;;False;899;663;18;0,596;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+295;298;D1_vasak_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+295;300;D1_vasak_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+257;302;D1_parem_kylg;;;False;899;663;18;1;;;Part;;;
+302;303;D1_parem_kylg WP 1;WP of ;;False;899;663;18;0,596;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+302;305;D1_parem_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+302;307;D1_parem_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+257;309;D1_p6hjaliist;;;False;2181;65;18;1;;;Part;;;
+309;310;D1_p6hjaliist WP 1;WP of ;;False;2181;65;18;0,142;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+309;312;D1_p6hjaliist WP 2;WP of ;;False;2181;18;1;2,181;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+257;314;D1_v2lis_sokkel;;;False;2217;68;18;1;;;Part;;;
+314;315;D1_v2lis_sokkel WP 1;WP of ;;False;2217;68;18;0,151;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+314;317;D1_v2lis_sokkel WP 2;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+314;319;D1_v2lis_sokkel WP 3;WP of ;;False;2217;18;1;2,217;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+314;321;D1_v2lis_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+257;13;Kruvitõmmits 5x50;;;;;;;39;;;Purchased;;;
+257;259;Kapi jalg M6: MF PI05;J;;;;;;4;;;Purchased;;;
+257;260;Puks M6: MF BP01;P;;;;;;4;;;Purchased;;;
+257;332;D1_tugitoru;;;;;;;1;;;Purchased;;;
+257;324;D1_sokliplekk;;;;;;;1;;;Purchased;;;
+1;323;moodul_X1;;;;;;;1;;;Assembly;;;
+323;324;X1_parem_kylg;;;False;909;663;18;1;;;Part;;;
+324;325;X1_parem_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+324;327;X1_parem_kylg WP 2;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+324;329;X1_parem_kylg WP 3;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+323;331;X1_vasak_kylg;;;False;909;663;18;1;;;Part;;;
+331;332;X1_vasak_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+331;334;X1_vasak_kylg WP 2;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+331;336;X1_vasak_kylg WP 3;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+323;338;X1_p6hi;;;False;1174;662;18;1;;;Part;;;
+338;339;X1_p6hi WP 1;WP of ;;False;1174;662;18;0,777;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+338;341;X1_p6hi WP 2;WP of ;;False;1174;18;1;1,174;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+323;343;X1_sise_sokkel;;;False;1228;68;18;1;;;Part;;;
+343;344;X1_sise_sokkel WP 1;WP of ;;False;1228;68;18;0,084;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+343;346;X1_sise_sokkel WP 2;WP of ;;False;1228;18;1;1,228;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+343;348;X1_sise_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+343;350;X1_sise_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+323;352;X1_v2lis_sokkel;;;False;1210;68;18;1;;;Part;;;
+352;353;X1_v2lis_sokkel WP 1;WP of ;;False;1210;68;18;0,082;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+352;355;X1_v2lis_sokkel WP 2;WP of ;;False;1210;18;1;1,21;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+352;357;X1_v2lis_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+352;359;X1_v2lis_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+323;361;X1_sideliist;;;False;1174;112;18;1;;;Part;;;
+361;362;X1_sideliist WP 1;WP of ;;False;1174;112;18;0,131;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+361;364;X1_sideliist WP 2;WP of ;;False;1174;18;1;1,174;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+323;366;X1_esipaneel;;;True;1210;862;15;1;;;Part;;;
+366;367;X1_esipaneel WP 1;WP of ;;True;1210;862;15;1,043;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+366;369;X1_esipaneel WP 2;WP of ;;False;;;0;0;m²;Top;Cover Workpiece;Paint;värv;RAL_9011
+323;371;X1_t66pind;;;True;1210;680;21;1;;;Part;;;
+371;372;X1_t66pind WP 1;WP of ;;True;1210;680;21;0,823;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+371;374;X1_t66pind WP 2;WP of ;;False;;;0;0;m²;Left, Back, Right, Bottom;Cover Workpiece;Paint;värv;RAL_9011
+323;16;Sokli korrigeerija MF 300-00-Z2-00-Z2;;;;;;;4;;;Purchased;;;
+323;607;puit_tyybel_8x35;;;;;;;8;;;Purchased;;;
+323;13;Kruvitõmmits 5x50;;;;;;;17;;;Purchased;;;
+323;13;Kruvitõmmits 5x50;;;;;;;18;;;Purchased;;;
+323;402;X1_sokliplekk;;;;;;;1;;;Purchased;;;
+1;400;moodul_X2;;;;;;;1;;;Assembly;;;
+400;401;X2_parem_kylg;;;False;909;663;18;1;;;Part;;;
+401;402;X2_parem_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+401;404;X2_parem_kylg WP 2;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+401;406;X2_parem_kylg WP 3;WP of ;;False;841;18;1;0,841;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+400;408;X2_vasak_kylg;;;False;909;663;18;1;;;Part;;;
+408;409;X2_vasak_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+408;411;X2_vasak_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+408;413;X2_vasak_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+400;415;X2_p6hi;;;False;1304;662;18;1;;;Part;;;
+415;416;X2_p6hi WP 1;WP of ;;False;1304;662;18;0,863;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+415;418;X2_p6hi WP 2;WP of ;;False;1304;18;1;1,304;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+400;420;X2_sise_sokkel;;;False;1340;68;18;1;;;Part;;;
+420;421;X2_sise_sokkel WP 1;WP of ;;False;1340;68;18;0,091;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+420;423;X2_sise_sokkel WP 2;WP of ;;False;1340;18;1;1,34;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+420;425;X2_sise_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+420;427;X2_sise_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+400;429;X2_v2lis_sokkel;;;False;1340;68;18;1;;;Part;;;
+429;430;X2_v2lis_sokkel WP 1;WP of ;;False;1340;68;18;0,091;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+429;432;X2_v2lis_sokkel WP 2;WP of ;;False;1340;18;1;1,34;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+429;434;X2_v2lis_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+429;436;X2_v2lis_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+400;438;X2_sideliist;;;False;1304;112;18;1;;;Part;;;
+438;439;X2_sideliist WP 1;WP of ;;False;1304;112;18;0,146;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+438;441;X2_sideliist WP 2;WP of ;;False;1304;18;1;1,304;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+400;443;X2_esipaneel;;;True;1340;862;15;1;;;Part;;;
+443;444;X2_esipaneel WP 1;WP of ;;True;1340;862;15;1,155;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+443;446;X2_esipaneel WP 2;WP of ;;False;;;0;0;m²;Top;Cover Workpiece;Paint;värv;RAL_9011
+400;448;X2_t66pind;;;True;1340;680;21;1;;;Part;;;
+448;449;X2_t66pind WP 1;WP of ;;True;1340;680;21;0,911;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+448;451;X2_t66pind WP 2;WP of ;;False;;;0;0;m²;Back, Right, Bottom;Cover Workpiece;Paint;värv;RAL_9011
+400;16;Sokli korrigeerija MF 300-00-Z2-00-Z2;;;;;;;4;;;Purchased;;;
+400;607;puit_tyybel_8x35;;;;;;;10;;;Purchased;;;
+400;13;Kruvitõmmits 5x50;;;;;;;18;;;Purchased;;;
+400;13;Kruvitõmmits 5x50;;;;;;;18;;;Purchased;;;
+400;470;X2_sokliplekk;;;;;;;1;;;Purchased;;;
+1;467;moodul_C1;;;;;;;1;;;Assembly;;;
+467;468;C1_vasak_kylg;;;False;909;662;18;1;;;Part;;;
+468;469;C1_vasak_kylg WP 1;WP of ;;False;909;662;18;0,602;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+468;471;C1_vasak_kylg WP 2;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+467;473;C1_yhendus_paneel;;;False;405;200;18;1;;;Part;;;
+473;474;C1_yhendus_paneel WP 1;WP of ;;False;405;200;18;0,081;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+473;476;C1_yhendus_paneel WP 2;WP of ;;False;405;18;1;0,405;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+467;478;C1_parem_kylg;;;False;909;662;18;1;;;Part;;;
+478;479;C1_parem_kylg WP 1;WP of ;;False;909;662;18;0,602;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+478;481;C1_parem_kylg WP 2;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+467;483;C1_p6hi;;;False;762;660;18;1;;;Part;;;
+483;484;C1_p6hi WP 1;WP of ;;False;762;660;18;0,503;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+467;486;C1_sise_sokkel;;;False;800;68;18;1;;;Part;;;
+486;487;C1_sise_sokkel WP 1;WP of ;;False;800;68;18;0,054;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+486;489;C1_sise_sokkel WP 2;WP of ;;False;800;18;1;0,8;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+486;491;C1_sise_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+486;493;C1_sise_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+467;495;C1_v2lis_sokkel;;;False;1002;68;18;1;;;Part;;;
+495;496;C1_v2lis_sokkel WP 1;WP of ;;False;1002;68;18;0,068;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+495;498;C1_v2lis_sokkel WP 2;WP of ;;False;1002;18;1;1,002;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+495;500;C1_v2lis_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+495;502;C1_v2lis_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+467;504;C1_lisatykk;;;False;202;65;18;1;;;Part;;;
+504;505;C1_lisatykk WP 1;WP of ;;False;202;65;18;0,013;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+467;507;C1_yhendus_latt;;;False;823;120;18;1;;;Part;;;
+507;508;C1_yhendus_latt WP 1;WP of ;;False;823;120;18;0,099;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+467;510;C1_t66pind;;;True;1002;680;21;1;;;Part;;;
+510;511;C1_t66pind WP 1;WP of ;;True;1002;680;21;0,682;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+510;513;C1_t66pind WP 2;WP of ;;False;;;0;0;m²;Back, Right, Bottom;Cover Workpiece;Paint;värv;RAL_9011
+467;529;C1_esipaneel;;;True;1002;862;15;1;;;Part;;;
+529;530;C1_esipaneel WP 1;WP of ;;True;1002;862;15;0,864;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+529;532;C1_esipaneel WP 2;WP of ;;False;;;0;0;m²;Top;Cover Workpiece;Paint;värv;RAL_9011
+467;607;puit_tyybel_8x35;;;;;;;12;;;Purchased;;;
+467;13;Kruvitõmmits 5x50;;;;;;;20;;;Purchased;;;
+467;13;Kruvitõmmits 5x50;;;;;;;16;;;Purchased;;;
+467;534;C1_vasak_kyljeplekk;;;;;;;1;;;Purchased;;;
+467;535;C1_parem_kyljeplekk;;;;;;;1;;;Purchased;;;
+467;555;C1_tagaplekk;;;;;;;1;;;Purchased;;;
+467;556;C1_sokliplekk;;;;;;;1;;;Purchased;;;
+467;16;Sokli korrigeerija MF 300-00-Z2-00-Z2;;;;;;;4;;;Purchased;;;
+1;536;moodul_C2;;;;;;;1;;;Assembly;;;
+536;537;C2_parem_kylg;;;False;909;663;18;1;;;Part;;;
+537;538;C2_parem_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+537;540;C2_parem_kylg WP 2;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+537;542;C2_parem_kylg WP 3;WP of ;;False;841;18;1;0,841;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+536;544;C2_vasak_kylg;;;False;909;663;18;1;;;Part;;;
+544;545;C2_vasak_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+544;547;C2_vasak_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+544;549;C2_vasak_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+536;551;C2_p6hi;;;False;764;662;18;1;;;Part;;;
+551;552;C2_p6hi WP 1;WP of ;;False;764;662;18;0,506;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+551;554;C2_p6hi WP 2;WP of ;;False;764;18;1;0,764;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+536;556;C2_sise_sokkel;;;False;818;68;18;1;;;Part;;;
+556;557;C2_sise_sokkel WP 1;WP of ;;False;818;68;18;0,056;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+556;559;C2_sise_sokkel WP 2;WP of ;;False;818;18;1;0,818;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+556;561;C2_sise_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+556;563;C2_sise_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+536;565;C2_v2lis_sokkel;;;False;800;68;18;1;;;Part;;;
+565;566;C2_v2lis_sokkel WP 1;WP of ;;False;800;68;18;0,054;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+565;568;C2_v2lis_sokkel WP 2;WP of ;;False;800;18;1;0,8;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+565;570;C2_v2lis_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+565;572;C2_v2lis_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+536;574;C2_sideliist;;;False;764;112;18;1;;;Part;;;
+574;575;C2_sideliist WP 1;WP of ;;False;764;112;18;0,086;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+574;577;C2_sideliist WP 2;WP of ;;False;764;18;1;0,764;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+536;579;C2_t66pind;;;True;800;680;21;1;;;Part;;;
+579;580;C2_t66pind WP 1;WP of ;;True;800;680;21;0,544;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+579;582;C2_t66pind WP 2;WP of ;;False;;;0;0;m²;Left, Back, Bottom;Cover Workpiece;Paint;värv;RAL_9011
+536;598;C2_esipaneel;;;True;862;800;15;1;;;Part;;;
+598;599;C2_esipaneel WP 1;WP of ;;True;862;800;15;0,69;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+598;601;C2_esipaneel WP 2;WP of ;;False;;;0;0;m²;Top;Cover Workpiece;Paint;värv;RAL_9011
+536;603;C2_riiul;;;False;763;661;18;1;;;Part;;;
+603;604;C2_riiul WP 1;WP of ;;False;763;661;18;0,504;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+603;606;C2_riiul WP 2;WP of ;;False;763;18;1;0,763;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+536;607;puit_tyybel_8x35;;;;;;;10;;;Purchased;;;
+536;13;Kruvitõmmits 5x50;;;;;;;19;;;Purchased;;;
+536;13;Kruvitõmmits 5x50;;;;;;;8;;;Purchased;;;
+536;16;Sokli korrigeerija MF 300-00-Z2-00-Z2;;;;;;;4;;;Purchased;;;
+536;610;C2_sokliplekk;;;;;;;1;;;Purchased;;;
+1;608;moodul_B2;;;;;;;1;;;Assembly;;;
+608;609;B2_parem_kylg;;;False;909;663;18;1;;;Part;;;
+609;610;B2_parem_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+609;612;B2_parem_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+609;614;B2_parem_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+608;616;B2_vasak_kylg;;;False;909;663;18;1;;;Part;;;
+616;617;B2_vasak_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+616;619;B2_vasak_kylg WP 2;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+616;621;B2_vasak_kylg WP 3;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+608;623;B2_p6hi;;;False;717;662;18;1;;;Part;;;
+623;624;B2_p6hi WP 1;WP of ;;False;717;662;18;0,474;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+623;626;B2_p6hi WP 2;WP of ;;False;717;18;1;0,717;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+608;628;B2_lisatykk;;;False;202;65;18;1;;;Part;;;
+628;629;B2_lisatykk WP 1;WP of ;;False;202;65;18;0,013;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+608;631;B2_sise_sokkel;;;False;752;68;18;1;;;Part;;;
+631;632;B2_sise_sokkel WP 1;WP of ;;False;752;68;18;0,051;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+631;634;B2_sise_sokkel WP 2;WP of ;;False;752;18;1;0,752;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+631;636;B2_sise_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+631;638;B2_sise_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+608;640;B2_t66pind;;;True;955;680;21;1;;;Part;;;
+640;641;B2_t66pind WP 1;WP of ;;True;955;680;21;0,649;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+640;643;B2_t66pind WP 2;WP of ;;False;;;0;0;m²;Left, Back, Bottom;Cover Workpiece;Paint;värv;RAL_9011
+608;659;B2_esipaneel;;;True;955;862;15;1;;;Part;;;
+659;660;B2_esipaneel WP 1;WP of ;;True;955;862;15;0,823;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+659;662;B2_esipaneel WP 2;WP of ;;False;;;0;0;m²;Top;Cover Workpiece;Paint;värv;RAL_9011
+608;664;B2_v2lis_sokkel;;;False;955;68;18;1;;;Part;;;
+664;665;B2_v2lis_sokkel WP 1;WP of ;;False;955;68;18;0,065;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+664;667;B2_v2lis_sokkel WP 2;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+664;669;B2_v2lis_sokkel WP 3;WP of ;;False;955;18;1;0,955;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+664;671;B2_v2lis_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+608;673;B2_sideliist;;;False;717;112;18;1;;;Part;;;
+673;674;B2_sideliist WP 1;WP of ;;False;717;112;18;0,08;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+673;676;B2_sideliist WP 2;WP of ;;False;717;18;1;0,717;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+608;678;B2_riiul;;;False;716;661;18;1;;;Part;;;
+678;679;B2_riiul WP 1;WP of ;;False;716;661;18;0,473;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+678;681;B2_riiul WP 2;WP of ;;False;715;18;1;0,715;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+608;16;Sokli korrigeerija MF 300-00-Z2-00-Z2;;;;;;;4;;;Purchased;;;
+608;607;puit_tyybel_8x35;;;;;;;12;;;Purchased;;;
+608;13;Kruvitõmmits 5x50;;;;;;;14;;;Purchased;;;
+608;13;Kruvitõmmits 5x50;;;;;;;16;;;Purchased;;;
+608;686;B2_sokliplekk;;;;;;;1;;;Purchased;;;
+1;683;moodul_B1;;;;;;;1;;;Assembly;;;
+683;684;kandikuava;;;;;;;1;;;Assembly;;;
+684;685;kandikuava_lagi;;;False;464;330;20;1;;;Part;;;
+685;686;kandikuava_lagi WP 1;WP of ;;False;464;330;20;0,153;m²;;Fill Workpiece;Laminated Board;L_V_PLP;AB_835
+684;688;kandikuava_p6hi;;;False;464;315;20;1;;;Part;;;
+688;689;kandikuava_p6hi WP 1;WP of ;;False;464;315;20;0,146;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+684;691;kandikuava_vasak_kylg;;;False;508;330;20;1;;;Part;;;
+691;692;kandikuava_vasak_kylg WP 1;WP of ;;False;508;330;20;0,168;m²;;Fill Workpiece;Laminated Board;L_V_PLP;AB_835
+691;694;kandikuava_vasak_kylg WP 2;WP of ;;False;315;20;1;0,315;m;Right;Cover Workpiece;Edge Band;ABS;EG_U999
+691;696;kandikuava_vasak_kylg WP 3;WP of ;;False;315;20;1;0,315;m;Left;Cover Workpiece;Edge Band;ABS;EG_U999
+684;698;kandikuava_parem_kylg;;;False;508;330;20;1;;;Part;;;
+698;699;kandikuava_parem_kylg WP 1;WP of ;;False;508;330;20;0,168;m²;;Fill Workpiece;Laminated Board;L_V_PLP;AB_835
+698;701;kandikuava_parem_kylg WP 2;WP of ;;False;315;20;1;0,315;m;Left;Cover Workpiece;Edge Band;ABS;EG_U999
+698;703;kandikuava_parem_kylg WP 3;WP of ;;False;315;20;1;0,315;m;Right;Cover Workpiece;Edge Band;ABS;EG_U999
+684;705;kandikuava_tagasein;;;False;508;504;20;1;;;Part;;;
+705;706;kandikuava_tagasein WP 1;WP of ;;False;508;504;20;0,256;m²;;Fill Workpiece;Laminated Board;L_V_PLP;AB_835
+705;708;kandikuava_tagasein WP 2;WP of ;;False;504;20;1;0,504;m;Right;Cover Workpiece;Edge Band;ABS;EG_U999
+705;710;kandikuava_tagasein WP 3;WP of ;;False;508;20;1;0,508;m;Back;Cover Workpiece;Edge Band;ABS;EG_U999
+705;712;kandikuava_tagasein WP 4;WP of ;;False;504;20;1;0,504;m;Left;Cover Workpiece;Edge Band;ABS;EG_U999
+705;714;kandikuava_tagasein WP 5;WP of ;;False;508;20;1;0,508;m;Front;Cover Workpiece;Edge Band;ABS;EG_U999
+684;607;puit_tyybel_8x35;;;;;;;12;;;Purchased;;;
+684;13;Kruvitõmmits 5x50;;;;;;;22;;;Purchased;;;
+683;716;B1_kaarpaneel;;;True;1051;862;15;1;;;SheetMetal Part;;;
+716;717;B1_kaarpaneel WP 1;WP of ;;True;862;1051;15;0,906;m²;;Fill Workpiece;Board;VIN_PAINDE;
+716;719;B1_kaarpaneel WP 2;WP of ;;False;;;0;0;m²;Top;Cover Workpiece;Paint;värv;RAL_9011
+683;721;B1_vasak_kylg;;;False;909;663;18;1;;;Part;;;
+721;722;B1_vasak_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+721;724;B1_vasak_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+721;726;B1_vasak_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+683;728;B1_parem_kylg;;;False;909;663;18;1;;;Part;;;
+728;729;B1_parem_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+728;731;B1_parem_kylg WP 2;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+728;733;B1_parem_kylg WP 3;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+683;735;B1_p6hi;;;False;1125;662;18;1;;;Part;;;
+735;736;B1_p6hi WP 1;WP of ;;False;1125;662;18;0,745;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+735;738;B1_p6hi WP 2;WP of ;;False;1125;18;1;1,125;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+683;740;B1_tugiliist;;;False;823;112;18;2;;;Part;;;
+740;741;B1_tugiliist WP 1;WP of ;;False;823;112;18;0,092;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+740;743;B1_tugiliist WP 2;WP of ;;False;823;18;1;0,823;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+683;745;B1_sise_sokkel;;;False;548;68;18;1;;;Part;;;
+745;746;B1_sise_sokkel WP 1;WP of ;;False;548;68;18;0,037;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+745;748;B1_sise_sokkel WP 2;WP of ;;False;548;18;1;0,548;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+745;750;B1_sise_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+683;752;B1_sokli_ots;;;False;68;67;18;1;;;Part;;;
+752;753;B1_sokli_ots WP 1;WP of ;;False;68;67;18;0,005;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+752;755;B1_sokli_ots WP 2;WP of ;;False;67;18;1;0,067;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+752;757;B1_sokli_ots WP 3;WP of ;;False;68;18;1;0,068;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+683;759;B1_t66pind;;;True;1143;680;21;1;;;Part;;;
+759;760;B1_t66pind WP 1;WP of ;;True;1143;680;21;0,777;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+759;762;B1_t66pind WP 2;WP of ;;False;;;0;0;m²;Back, Bottom;Cover Workpiece;Paint;värv;RAL_9011
+683;770;B1_esipaneel;;;True;862;540;15;1;;;Part;;;
+770;771;B1_esipaneel WP 1;WP of ;;True;862;540;15;0,465;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+770;773;B1_esipaneel WP 2;WP of ;;False;;;0;0;m²;Top;Cover Workpiece;Paint;värv;RAL_9011
+683;775;B1_v2lis_sokkel;;;True;1491;68;18;1;;;SheetMetal Part;;;
+775;776;B1_v2lis_sokkel WP 1;WP of ;;True;1491;68;18;0,101;m²;;Fill Workpiece;Board;VIN_PAINDE;
+683;778;B1_sideliist;;;False;1125;112;18;1;;;Part;;;
+778;779;B1_sideliist WP 1;WP of ;;False;1125;112;18;0,126;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+778;781;B1_sideliist WP 2;WP of ;;False;1125;18;1;1,125;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+683;16;Sokli korrigeerija MF 300-00-Z2-00-Z2;;;;;;;5;;;Purchased;;;
+683;688;B1_sokliplekk;;;;;;;1;;;Purchased;;;
+683;607;puit_tyybel_8x35;;;;;;;16;;;Purchased;;;
+683;13;Kruvitõmmits 5x50;;;;;;;31;;;Purchased;;;
+1;783;moodul_Z1;;;;;;;1;;;Assembly;;;
+783;684;kandikuava;;;;;;;1;;;Assembly;;;
+684;685;kandikuava_lagi;;;False;464;330;20;1;;;Part;;;
+685;686;kandikuava_lagi WP 1;WP of ;;False;464;330;20;0,153;m²;;Fill Workpiece;Laminated Board;L_V_PLP;AB_835
+684;688;kandikuava_p6hi;;;False;464;315;20;1;;;Part;;;
+688;689;kandikuava_p6hi WP 1;WP of ;;False;464;315;20;0,146;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+684;691;kandikuava_vasak_kylg;;;False;508;330;20;1;;;Part;;;
+691;692;kandikuava_vasak_kylg WP 1;WP of ;;False;508;330;20;0,168;m²;;Fill Workpiece;Laminated Board;L_V_PLP;AB_835
+691;694;kandikuava_vasak_kylg WP 2;WP of ;;False;315;20;1;0,315;m;Right;Cover Workpiece;Edge Band;ABS;EG_U999
+691;696;kandikuava_vasak_kylg WP 3;WP of ;;False;315;20;1;0,315;m;Left;Cover Workpiece;Edge Band;ABS;EG_U999
+684;698;kandikuava_parem_kylg;;;False;508;330;20;1;;;Part;;;
+698;699;kandikuava_parem_kylg WP 1;WP of ;;False;508;330;20;0,168;m²;;Fill Workpiece;Laminated Board;L_V_PLP;AB_835
+698;701;kandikuava_parem_kylg WP 2;WP of ;;False;315;20;1;0,315;m;Left;Cover Workpiece;Edge Band;ABS;EG_U999
+698;703;kandikuava_parem_kylg WP 3;WP of ;;False;315;20;1;0,315;m;Right;Cover Workpiece;Edge Band;ABS;EG_U999
+684;705;kandikuava_tagasein;;;False;508;504;20;1;;;Part;;;
+705;706;kandikuava_tagasein WP 1;WP of ;;False;508;504;20;0,256;m²;;Fill Workpiece;Laminated Board;L_V_PLP;AB_835
+705;708;kandikuava_tagasein WP 2;WP of ;;False;504;20;1;0,504;m;Right;Cover Workpiece;Edge Band;ABS;EG_U999
+705;710;kandikuava_tagasein WP 3;WP of ;;False;508;20;1;0,508;m;Back;Cover Workpiece;Edge Band;ABS;EG_U999
+705;712;kandikuava_tagasein WP 4;WP of ;;False;504;20;1;0,504;m;Left;Cover Workpiece;Edge Band;ABS;EG_U999
+705;714;kandikuava_tagasein WP 5;WP of ;;False;508;20;1;0,508;m;Front;Cover Workpiece;Edge Band;ABS;EG_U999
+684;607;puit_tyybel_8x35;;;;;;;12;;;Purchased;;;
+684;13;Kruvitõmmits 5x50;;;;;;;22;;;Purchased;;;
+783;784;Z1_vasak_kylg;;;False;909;663;18;1;;;Part;;;
+784;785;Z1_vasak_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+784;787;Z1_vasak_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+784;789;Z1_vasak_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+783;791;Z1_parem_kylg;;;False;909;663;18;1;;;Part;;;
+791;792;Z1_parem_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+791;794;Z1_parem_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+791;796;Z1_parem_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+783;798;Z1_p6hi;;;False;892;662;18;1;;;Part;;;
+798;799;Z1_p6hi WP 1;WP of ;;False;892;662;18;0,591;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+798;801;Z1_p6hi WP 2;WP of ;;False;892;18;1;0,892;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+783;803;Z1_sise_sokkel;;;False;928;68;18;1;;;Part;;;
+803;804;Z1_sise_sokkel WP 1;WP of ;;False;928;68;18;0,063;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+803;806;Z1_sise_sokkel WP 2;WP of ;;False;928;18;1;0,928;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+803;808;Z1_sise_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+803;810;Z1_sise_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+783;812;Z1_vahesein;;;False;823;662;18;1;;;Part;;;
+812;813;Z1_vahesein WP 1;WP of ;;False;823;662;18;0,545;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+812;815;Z1_vahesein WP 2;WP of ;;False;823;18;1;0,823;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+783;817;Z1_vahelagi;;;False;662;228;18;1;;;Part;;;
+817;818;Z1_vahelagi WP 1;WP of ;;False;662;228;18;0,151;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+817;820;Z1_vahelagi WP 2;WP of ;;False;228;18;1;0,228;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+783;822;Z1_lisatykk;;;False;200;65;18;1;;;Part;;;
+822;823;Z1_lisatykk WP 1;WP of ;;False;200;65;18;0,013;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+783;825;Z1_esipaneel;;;True;1128;862;15;1;;;Part;;;
+825;826;Z1_esipaneel WP 1;WP of ;;True;1128;862;15;0,972;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+825;828;Z1_esipaneel WP 2;WP of ;;False;;;0;0;m²;Bottom;Cover Workpiece;Paint;värv;RAL_9011
+783;830;Z1_t66pind;;;True;1128;680;21;1;;;Part;;;
+830;831;Z1_t66pind WP 1;WP of ;;True;1128;680;21;0,767;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+830;833;Z1_t66pind WP 2;WP of ;;False;;;0;0;m²;Back, Bottom, Inward;Cover Workpiece;Paint;värv;RAL_9011
+783;855;Z1_sideliist;;;False;646;112;18;1;;;Part;;;
+855;856;Z1_sideliist WP 1;WP of ;;False;646;112;18;0,072;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+855;858;Z1_sideliist WP 2;WP of ;;False;646;18;1;0,646;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+783;860;Z1_riiul;;;False;661;228;18;1;;;Part;;;
+860;861;Z1_riiul WP 1;WP of ;;False;661;228;18;0,15;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+860;863;Z1_riiul WP 2;WP of ;;False;227;18;1;0,227;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+783;865;Z1_v2lis_sokkel;;;False;1128;68;18;1;;;Part;;;
+865;866;Z1_v2lis_sokkel WP 1;WP of ;;False;1128;68;18;0,077;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+865;868;Z1_v2lis_sokkel WP 2;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+865;870;Z1_v2lis_sokkel WP 3;WP of ;;False;1128;18;1;1,128;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+865;872;Z1_v2lis_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+783;16;Sokli korrigeerija MF 300-00-Z2-00-Z2;;;;;;;4;;;Purchased;;;
+783;607;puit_tyybel_8x35;;;;;;;20;;;Purchased;;;
+783;13;Kruvitõmmits 5x50;;;;;;;21;;;Purchased;;;
+783;13;Kruvitõmmits 5x50;;;;;;;22;;;Purchased;;;
+783;896;Z1_sokliplekk;;;;;;;1;;;Purchased;;;
+1;874;moodul_Z2;;;;;;;1;;;Assembly;;;
+874;684;kandikuava;;;;;;;1;;;Assembly;;;
+684;685;kandikuava_lagi;;;False;464;330;20;1;;;Part;;;
+685;686;kandikuava_lagi WP 1;WP of ;;False;464;330;20;0,153;m²;;Fill Workpiece;Laminated Board;L_V_PLP;AB_835
+684;688;kandikuava_p6hi;;;False;464;315;20;1;;;Part;;;
+688;689;kandikuava_p6hi WP 1;WP of ;;False;464;315;20;0,146;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+684;691;kandikuava_vasak_kylg;;;False;508;330;20;1;;;Part;;;
+691;692;kandikuava_vasak_kylg WP 1;WP of ;;False;508;330;20;0,168;m²;;Fill Workpiece;Laminated Board;L_V_PLP;AB_835
+691;694;kandikuava_vasak_kylg WP 2;WP of ;;False;315;20;1;0,315;m;Right;Cover Workpiece;Edge Band;ABS;EG_U999
+691;696;kandikuava_vasak_kylg WP 3;WP of ;;False;315;20;1;0,315;m;Left;Cover Workpiece;Edge Band;ABS;EG_U999
+684;698;kandikuava_parem_kylg;;;False;508;330;20;1;;;Part;;;
+698;699;kandikuava_parem_kylg WP 1;WP of ;;False;508;330;20;0,168;m²;;Fill Workpiece;Laminated Board;L_V_PLP;AB_835
+698;701;kandikuava_parem_kylg WP 2;WP of ;;False;315;20;1;0,315;m;Left;Cover Workpiece;Edge Band;ABS;EG_U999
+698;703;kandikuava_parem_kylg WP 3;WP of ;;False;315;20;1;0,315;m;Right;Cover Workpiece;Edge Band;ABS;EG_U999
+684;705;kandikuava_tagasein;;;False;508;504;20;1;;;Part;;;
+705;706;kandikuava_tagasein WP 1;WP of ;;False;508;504;20;0,256;m²;;Fill Workpiece;Laminated Board;L_V_PLP;AB_835
+705;708;kandikuava_tagasein WP 2;WP of ;;False;504;20;1;0,504;m;Right;Cover Workpiece;Edge Band;ABS;EG_U999
+705;710;kandikuava_tagasein WP 3;WP of ;;False;508;20;1;0,508;m;Back;Cover Workpiece;Edge Band;ABS;EG_U999
+705;712;kandikuava_tagasein WP 4;WP of ;;False;504;20;1;0,504;m;Left;Cover Workpiece;Edge Band;ABS;EG_U999
+705;714;kandikuava_tagasein WP 5;WP of ;;False;508;20;1;0,508;m;Front;Cover Workpiece;Edge Band;ABS;EG_U999
+684;607;puit_tyybel_8x35;;;;;;;12;;;Purchased;;;
+684;13;Kruvitõmmits 5x50;;;;;;;22;;;Purchased;;;
+874;875;Z2_parem_kylg;;;False;909;663;18;1;;;Part;;;
+875;876;Z2_parem_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+875;878;Z2_parem_kylg WP 2;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+875;880;Z2_parem_kylg WP 3;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+874;882;Z2_vasak_kylg;;;False;909;663;18;1;;;Part;;;
+882;883;Z2_vasak_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+882;885;Z2_vasak_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+882;887;Z2_vasak_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+874;889;Z2_p6hi;;;False;1104;662;18;1;;;Part;;;
+889;890;Z2_p6hi WP 1;WP of ;;False;1104;662;18;0,731;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+889;892;Z2_p6hi WP 2;WP of ;;False;1104;18;1;1,104;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+874;894;Z2_sise_sokkel;;;False;1140;68;18;1;;;Part;;;
+894;895;Z2_sise_sokkel WP 1;WP of ;;False;1140;68;18;0,077;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+894;897;Z2_sise_sokkel WP 2;WP of ;;False;1140;18;1;1,14;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+894;899;Z2_sise_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+894;901;Z2_sise_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+874;903;Z2_esipaneel;;;True;1140;862;15;1;;;Part;;;
+903;904;Z2_esipaneel WP 1;WP of ;;True;1140;862;15;0,982;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+874;906;Z2_t66pind;;;True;1140;680;21;1;;;Part;;;
+906;907;Z2_t66pind WP 1;WP of ;;True;1140;680;21;0,775;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+874;909;Z2_sideliist;;;False;1104;112;18;1;;;Part;;;
+909;910;Z2_sideliist WP 1;WP of ;;False;1104;112;18;0,124;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+909;912;Z2_sideliist WP 2;WP of ;;False;1104;18;1;1,104;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+874;914;Z2_v2lis_sokkel;;;False;1140;68;18;1;;;Part;;;
+914;915;Z2_v2lis_sokkel WP 1;WP of ;;False;1140;68;18;0,077;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+914;917;Z2_v2lis_sokkel WP 2;WP of ;;False;68;18;1;0,068;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+914;919;Z2_v2lis_sokkel WP 3;WP of ;;False;1140;18;1;1,14;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+914;921;Z2_v2lis_sokkel WP 4;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+874;946;Z2_sokliplekk;;;;;;;1;;;Purchased;;;
+874;16;Sokli korrigeerija MF 300-00-Z2-00-Z2;;;;;;;4;;;Purchased;;;
+874;607;puit_tyybel_8x35;;;;;;;12;;;Purchased;;;
+874;13;Kruvitõmmits 5x50;;;;;;;14;;;Purchased;;;
+874;13;Kruvitõmmits 5x50;;;;;;;18;;;Purchased;;;
+1;923;moodul_Z3;;;;;;;1;;;Assembly;;;
+923;924;Z3_kaarpaneel;;;True;1051;862;15;1;;;SheetMetal Part;;;
+924;925;Z3_kaarpaneel WP 1;WP of ;;True;862;1051;15;0,906;m²;;Fill Workpiece;Board;VIN_PAINDE;
+924;927;Z3_kaarpaneel WP 2;WP of ;;False;;;0;0;m²;Back, Top;Cover Workpiece;Paint;värv;RAL_9011
+923;931;Z3_vasak_kylg;;;False;909;663;18;1;;;Part;;;
+931;932;Z3_vasak_kylg WP 1;WP of ;;False;909;663;18;0,603;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+931;934;Z3_vasak_kylg WP 2;WP of ;;False;841;18;1;0,841;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+931;936;Z3_vasak_kylg WP 3;WP of ;;False;530;18;1;0,53;m;Right;Cover Workpiece;Edge Band;ABS;EG_F187
+923;938;Z3_p6hi;;;False;662;585;18;1;;;Part;;;
+938;939;Z3_p6hi WP 1;WP of ;;False;662;585;18;0,387;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+938;941;Z3_p6hi WP 2;WP of ;;False;585;18;1;0,585;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+923;943;Z3_t2iteliist;;;False;823;120;18;1;;;Part;;;
+943;944;Z3_t2iteliist WP 1;WP of ;;False;823;120;18;0,099;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+923;946;Z3_parem_kylg;;;False;823;440;18;1;;;Part;;;
+946;947;Z3_parem_kylg WP 1;WP of ;;False;823;440;18;0,362;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+946;949;Z3_parem_kylg WP 2;WP of ;;False;823;18;1;0,823;m;Back;Cover Workpiece;Edge Band;ABS;EG_F187
+923;951;Z3_sise_sokkel;;;False;538;68;18;1;;;Part;;;
+951;952;Z3_sise_sokkel WP 1;WP of ;;False;538;68;18;0,037;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+951;954;Z3_sise_sokkel WP 2;WP of ;;False;538;18;1;0,538;m;Front;Cover Workpiece;Edge Band;ABS;EG_F187
+951;956;Z3_sise_sokkel WP 3;WP of ;;False;68;18;1;0,068;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+923;958;Z3_vahelagi;;;False;662;448;18;1;;;Part;;;
+958;959;Z3_vahelagi WP 1;WP of ;;False;662;448;18;0,297;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+958;961;Z3_vahelagi WP 2;WP of ;;False;447;18;1;0,447;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+923;963;Z3_t66pind;;;True;680;603;21;1;;;Part;;;
+963;964;Z3_t66pind WP 1;WP of ;;True;680;603;21;0,41;m²;;Fill Workpiece;Board;VIN_KASK_CP/CP;
+963;966;Z3_t66pind WP 2;WP of ;;False;;;0;0;m²;Left, Bottom, Inward;Cover Workpiece;Paint;värv;RAL_9011
+923;986;Z3_riiul;;;False;661;446;18;1;;;Part;;;
+986;987;Z3_riiul WP 1;WP of ;;False;661;446;18;0,295;m²;;Fill Workpiece;Laminated Board;MEL_NK;EG_F187
+986;989;Z3_riiul WP 2;WP of ;;False;446;18;1;0,446;m;Left;Cover Workpiece;Edge Band;ABS;EG_F187
+923;991;Z3_v2lis_sokkel;;;True;884;68;18;1;;;SheetMetal Part;;;
+991;992;Z3_v2lis_sokkel WP 1;WP of ;;True;884;68;18;0,06;m²;;Fill Workpiece;Board;VIN_PAINDE;
+923;999;Z3_sokliplekk;;;;;;;1;;;Purchased;;;
+923;16;Sokli korrigeerija MF 300-00-Z2-00-Z2;;;;;;;3;;;Purchased;;;
+923;607;puit_tyybel_8x35;;;;;;;15;;;Purchased;;;
+923;13;Kruvitõmmits 5x50;;;;;;;17;;;Purchased;;;
+1;994;kylmavitriini_tugi;;;;;;;2;;;Assembly;;;
+1;2;klaas;;joonise järgi;;;;;1;;;Purchased;;;
+1;11;kivi;;vastavalt tarnija joonistele;;;;;1;;;Purchased;;;

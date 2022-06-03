@@ -78,6 +78,7 @@
 		border: 1px solid rgb(0, 0, 0);
 		border-radius: 4px;
 		cursor: pointer;
+		background-color: wheat;
 	}
 
 	input {

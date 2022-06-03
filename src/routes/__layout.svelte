@@ -1,6 +1,7 @@
 <nav>
 	<a href="/">home</a>
 	<a href="/order">orders</a>
+	<a href="/jurnal-generator">jurnal generator</a>
 </nav>
 
 <slot />
